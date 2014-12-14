@@ -102,9 +102,18 @@
         
     - (93-95)
 
-    Es sustancial que este hecho acontezca a escondidas y en el secreto de la oscuridad. La facultad de _ver_ diferencia a los miembros de la comunidad; _Raquel y Vidas_ no son miembros de la comunidad; las transacciones con _Raquel y Vidas_ acontencen en la oscuridad porque, aunque Dios pueda verlos (¿Unidad ontológica?), el episodio no puede ser socialmente visible (diferencia social).
+    Es sustancial que este hecho acontezca a escondidas y en el secreto de la oscuridad. La facultad de _ver_ diferencia a los miembros de la comunidad; _Raquel y Vidas_ no son miembros de la comunidad; las transacciones con _Raquel y Vidas_ acontencen en la oscuridad porque, aunque Dios pueda verlos (¿Unidad ontológica?), el episodio no puede ser socialmente visible (diferencia social); visión y __sociedad__.
+    
+    Otro problema: la mirada de Dios; la multiplicidad de las miradas humanas si comparadas con la mirada universal, persistente, de Dios. La mirada infalible de Dios; las miradas incompletas de los hombres. Pregunta: ¿de qué manera el narrador limita su propia perspectiva? ¿De qué manera la narración del aedo - universal, indistinta, omnisciente, divina, biblica - se vuelve la narración polifónica de la novela? Antes de llegar a la polifonía, la escritura tuvo que pasar por la sujetividad; la escritura tuvo que intuir que la objetividad no existe - sólo existe la multiplicación de la sujetividad.
+    
+    Público y privado; objetivo y sujetivo; divino y humano. Nacimiento de lo privado; condivisión de la mirada es fundación del espacio público; ocultación de la mirada es espacio privado. Entonces, podríamos pensar, los primeros verso del Cid también funcionan como la determinación de un espacio privado: la negación de la visión es esta exclusión de la esfera pública, pero es también la creación de un horizonte privado en el que el Cid puede volver a construir su legitima facultad de acción. El _exilio_ pertenece a la misma ambivalencia: se trata de una ruptura del vínculo social (y jerárquico y afectivo) que permite la institución de un nuevo vínculo, basado en los meritos propios de la persona (dos ideas distintas de nobleza). La _mirada_ funciona como momento liminal entre lo privado y lo público; es la transición desde un sistema hereditario hacia un sistema fundado sobre los meritos individuales.
     
     Parece que la insistencia es realmente en la _negación_ de la mirada. Lo importante no es sólo lo que significa _ver_, sino también lo problemático que puede ser __no ver__. Distinguir entre _ver_, _no poder ver_ (falacia del _sujeto_), _no ver nada_ (_falacia del objeto_).
+    
+3. __Longinos__
+
+    > Longinos era çiego, que nu[n]quas vio alguandre,
+    > diot con 
 
 4. __Recursos genéricos__
 
