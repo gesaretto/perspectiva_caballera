@@ -221,6 +221,63 @@
     > El Campeador salio de la çelada,
     > corrie a Castejon sin falla.
 
+1. Tirada __29__: __Alcoçer__
+
+    - Como hemos visto, aquí registramos el engaño de la tienda vacía, parecida a las cajas de arena consignadas a Raquel y Vida
+    
+    > Quando vio mio Çid que Alcoçer non sele dava
+    > el fizo un art e non lo detardava:
+    > dexa una tienda fita e las otras levava,
+    > cojo[s] Salon ayuso la su seña alçada,
+    > las lorigas vestidas e çintas las espadas
+    > a guisa de menbrado por sacar los a la çelada.
+    > Veyen lo los de Alcoçer, ¡Dios, commo se alabavan!
+    
+    - Tenemos también un momento de fuerte connotación visual; el contraste es entre lo que ven los hombres de Alcoçer, una perspectiva registrada por su discurso directo en los versos que preceden este, y lo que ve el mismo Cid, como se ve en esta circunstancia.
+    
+    > El buen Campeador la su cara tornava,
+    > vio que entr'ellos y el castiello mucho avie grand plaça;
+    > mando tornar la seña, a priessa espoloneavan:
+    > '¡Firid los, cavalleros, todos sines dubdança,
+    > con la merçed del Criador nuestra es la ganançia!'
+    
+1. Tirada __32__
+
+    - El rey __Tamin__ tiene al rededor de sí un grupo de aliados a los que puede _ver_; sus aliancias y sus poderes se determinan a nivel visual, y lo mismo pasará con el mismo __Cid__ más adelante.
+    
+    > Quando lo oyo el rey Tamin por cuer le peso mal:
+    > 'Tres reyes veo de moros derredor de mi estar;
+    > non lo detarderes, los dos id pora alla,
+    > tres mil moros levedes con armas de lidiar,
+    > con los de la frontera que vos ayudaran
+    > prendet melo a vida, aduzid me lo deland;
+    > por que se me entro en mi tierra derecho me avra a dar.'
+    
+1. Tirada __36__
+
+    - Aparece la modalidad hipotética que acerca el lector a la identificación con los acontecimientos narrados.
+    
+    > Veriedes tantas lanças premer e alçar,
+    > tanta adagara foradar e passar,
+    > tanta loriga falssa[r e] desmanchar,
+    > tantos pendones blancos salir vermejos en sangre;
+    > tantos buenos cavallos sin sos dueños andar.
+    
+1. Tirada __40__
+
+    - La esencia de la caballería. El Cid se muestra en su esplendor caballeresco.
+    
+    > Andava mio Çid sobre so buen cavallo,
+    > la cofia fronzida: ¡Dios, commo es bien barbado!
+    > ALmofar a cuestas, la espada en la mano.
+    > Vio los sos commos van alegando:
+    > ¡Grado a Dios aquel que esta en alto,
+    > quando tal batalla avemos arancado!'
+    
+        - El __almofar__ es una capucha de malla que iba unida a la __loriga__;
+        - la __cofia__ es un gorro de lino que recogía el cabello y evitaba el roce del almófar y el yelmo.
+    
+    
 - - -
 
 ##Notas generales
