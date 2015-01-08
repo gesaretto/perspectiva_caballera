@@ -131,6 +131,97 @@
     > quebranteste las puertas e saqueste los santos padres.
     
     - Hay algo sobre la gestualidad, obviamente. Hay algo a proposito del hecho de que mirar es tambien alzar los brazos, mover la cabeça, tornar la cabeça. Hay una intencionalidad implicita en el gesto, una determinacion implicita en el gesto. Hay un deseo implicito en el gesto.
+    
+    - Escribir sobre la sangre caliente que baja por los brazos del observador. Escribir sobre el hecho de que, en el momnento en el que Longinos recupera la facultad de ver, el Cristo recupera la vida, vuelve de la oscuridad de la muerte. La noche es la muerte; el destierro es la muerte; muerte y destierro son la ausencia de vision, la ceguera de Longinos. Longinos es un lector de Dios; el Cid es un lector tambien. Nos encontramos con una relacion concentrica, con un sistema de relaciones concentricas basadas en un mecanismo de observaciones. El vasalaje es este sistema de reciprocas observaciones, esta capacidad de encontrar el otro.
+    
+    - La relación de vasalaje es una relación que emula la relación con la divinidad; _observar_ es al mismo tiempo _conocer_ y _probar empatía_, como se entiende claramente de este contexto. La sangre de Jesús se vuelve el instrumento a través del cual Longinos puede recobrar una visión que es al mismo tiempo conocimiento y posibilidad de una relación afectiva con la divinidad.
+    
+    - Este es el modelo de la hazaña del Cid: eliminación de la visión, recobración de la visión.
+    
+    > La oraçion fecha, la missa acabada la an,
+    > salieron de la eglesia, ya quieren cavalgar.
+    > El Çid a doña Ximena iva la abraçar,
+    > doña Ximena al Çid la manol va besar,
+    > lorando de los oios que non sabe que se far.
+    > Y el a las niñas torno las a catar:
+    > 'A Dios vos acomiendo, fijas, e a la mugier e al Padre spirital;
+    > agora nos partimos, Dios sabe el ajuntar.'
+    > Lorando de los ojos que non viestes atal,
+    > asis parten unos d'otros commo la uña de la carne.
+    > Mio Çid con los sos vassallos pensso de cavalgar;
+    > a todos esperando la cabeça tornando va.
+    
+    - Una nota general: ver es lo que precede la __partida__, no lo que realmente introduce el reencuentro. Como al principio de la obra, la mayor enfasis se da en el momento en el que los dos se parten; __catar__ siempre es una acción disjuntiva, de separación. _Catar_ supone la esistencia de dos seres distintos, de una sujetividad que contempla a otra; las dos no pueden ser conciliadas con facilidad. Las dos no son la misma cosa. Y este es el principio, esta es la raíz de la diferencia. Hay que considerar muy bien este hecho, hay que tenerlo bien presente. El Cid sólo mira cuando se va, cuando hay que marcar una distinción.
+    
+    - Mirar, reciprocamente, quiere decir afirmar unidad en la diferencia; sintesis en la diversidad. Empatía. La empatía no funciona cuando los dos individuos ocupan el mismo espacio; funciona solamente cuando podemos entender una diferenciación entre el observador y el objeto observado.
+    
+    - Esta es la esencia de la cuestión del espectador. El espectador sólo observa algo que no le pertenece; el espectador sólo puede identificarse con algo que no le pertenece. _Miranda_ mira a los naufragos desde la isla; Miranda puede sufrir con los que sufren sólo porque no está entre los que sufren.
+    
+    - La visión establece al mismo tiempo una unidad y una diferencia; la __diferencia__ es espacial y política, encarnada en la idea del destierro; la __unidad__ es una colectividad afectiva. La __literatura__ permite la existencia de esta doble postulacion, a traves de la idea de deseo e identificacion.
+    
+    - Los dos procesos son activados por la presencia del _campo_ y _controcampo_: ver lo que ve el Cid activa un proceso de identificacion; ver el Cid activa un proceso de deseo.
+    
+1. Tirada __19__: la visión del _angel Gabriel_
+
+    - Un proceso de reconciliación cercano al de _Longinos_
+    
+    > Quando desperto el Çid la cara se santigo;
+    > sinava la cara, a Dios se acomendo.
+    
+1. Tirada __21__: _ver_ es _poseer_
+
+    - Quizás se trate de una consideración estemporanea, pero esta es la característica específica del caballero: mirar a sus tropas por una posición privilegiada, así como mira a sus tierras por una posición privilegiada.
+    
+    > Aun era de dia, non era puesto el sol,
+    > mando ver sus yentes mio Çid el Campeador;
+    > sin las peonadas e omnes valientes que son
+    > noto trezientas lanças que todos tienen pendones.
+
+1. Tirada __22__
+
+    - Los pasajes de noche y las _çeladas_. El Cid adopera el hecho de no ser visto. Estas dos son las características militares de las habilidades visivas del Cid - __ver__ sin _ser vistos_. Se trata del axioma esencial de su actividad guerrera.
+    
+    > De noch passan la sierra, vinida es la man,
+    > e por la loma ayuso pienssan de andar;
+    > en medio d'una montaña maravillosa e grand
+    > fizo mio Çid posar e çevada dar.
+    
+    - La noche es uno de los elementos esencial de esta narración. Como hemos visto, la narración del Cid es la narración de _Longinos_: el __exilio__ y el __destierro__ son la temporanea oscuridad que el héroe debe padecer antes de poder volver a la conciliación con su propio maestro y señor, con su buen vassallo.
+    
+        - __N.B.:__ esta temporanea oscuridad, el espacio de la distancia del señor y del destierro, son lo que permite la mirada, como ya hemos visto. La mirada siempre es la afirmación de una distancia espacial y jerarquíca que al mismo tiempo permite una identificación y la proyección de empatía y de deseo. Todo esto __no__ sería posible si el Cid y el lector ocuparan el mismo espacio. El destierro es la condición necesaria a la identificación que es la mirada misma.
+        
+    - La oscuridad es cuando el Cid puede intervenir, cuando occurren sus hazañas mayores. Como las cajas de Raquel y Vidas, que no pueden ser catadas así sus conquistas de las varias ciudades funcionan a través de una negación de la mirada: para el enemigo es imposible conocer la verdadera proporción del objeto cerrado que está frente de él (la ciudad ocupada; la tienda del capitán). Gracias a esta ofuscación, el Cid puede realizar sus conquistas, exactamente como ya había hecho en el caso de Raquel y Vida.
+    
+    - Todas las ocasiones en las que algo acontece en _privado_, así como todas las ocasiones en las que el Cid encuentra un recurso que esconde y confunde la realidad al enemigo, son parecidas; son análogas circunstancias de ocultamento y ofuscamento, estratégicas para el caballero.
+    
+    - Justamente, la misma disposición del caballero funciona al mismo modo. Debajo de sus vestidos, el caballero es visible y oculto; conocemos su presencia pero no su identidad. El caballero puede mirar sin revelarse, como una máscara. La _caballería_ sigue siendo una máquina visionaria.
+    
+1. Tirada __23__: __Castejon__
+
+    - La _çelada_ es esta categoría esencial: ver sin ser vistos; estar en la noche, en el margen.
+    
+    - El lector ve sin ser visto. También deberíamos hablar de este lujo sustancial del que gozamos: podemos quedarnos escondidos, contemplar los secretos de nuestros héroes, participar a sus hazañas. Estamos en los cuartos secretos de Raquel y Vidas; estamos en el robredo de Corpes. Podemos ver sin ser vistos; como Raquel y Vidas, como el Cid en sus hazañas secretas, y como los infantes de Carrión en el acto más horrible del libro, nosotros también ocupamos los márgenes de la página.
+    
+    > E yo con lo[s] .c. aqui fincare en la çaga;
+    > terne yo Castejon don abremos grand enpara.
+    > Si cueta vos fuere alguna al algara
+    > fazed me mandado muy privado a la çaga;
+    > ¡d'aqueste acorro fablara toda España!'
+    
+    - Se note, como en las otras circunstancias, que el Cid siempre está más allá de una __puerta__. Aquí también, en el momento de sorprender al enemigo.
+    
+    > Ya quiebramn los albores e vinie la mañana,
+    > ixie el sol, ¡Dios, que fermoso apuntava!
+    > En Castejon todos se levantavam
+    > abren las puertas, de fuera salto davan
+    > por ver sus lavores e todas sus heredades.
+    > Todos son exidos, las puertas abiertas han dexadas
+    > con pocas de gentes que en Castejon fincar[a]n;
+    > las yentes de fuera todas son deramadas.
+    > El Campeador salio de la çelada,
+    > corrie a Castejon sin falla.
+
+- - -
 
 ##Notas generales
 
