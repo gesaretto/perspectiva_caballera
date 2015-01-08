@@ -1,5 +1,105 @@
 #Visiones del Cid - Notas
 
+##Puntos esenciales
+
+1. Tirada __1__
+
+    - Hay que determinar la existencia de __campo__ y __controcampo__. Hay que determinar la importancia de __campo__ y __controcampo__. Hay que determinar la manera en la que el lector se vuelve parte de este mecanismo de __campo__ y __controcampo__. El lector mira al observador mientras que el observador observa. El lector se vuelve, a menudo, el __controcampo__. Caracteristica inicial es la colocacion espacial del lector en la misma posicion:
+    
+        1. Del objeto observado;
+        1. Del observador.
+        
+    - Esta tiene que ser nuestra primera intuicion. El lector escoge espontaneamente ocupar la posicion de ausencia. El lector es el ausencia de esta vision inicial. El lector esta mas alla de estas puertas abiertas. El lector esta observado al Cid que observa, que observa el vacio mas alla de la negacion.
+ 
+    > De los sos ojos tan fuerte mientre lorando
+    > tornava la cabeça y estava los catando.
+    > Vio puertas abiertas e uços sin cañados,
+    > alcandaras vazias sin pielles e sin mantos
+    > e sin falcones e sin adtores mudados.
+    > Sospiro mio Çid ca mucho avie grandes cuidados.
+    > Ffablo mio Çid bien e tan mesurado:
+    > '¡Grado a ti, señor, padre que estas en alto!
+    > ¡Esto me an buelto mios enemigos malos!'
+
+    - El lector esta puesto en una circunstancia de negacion de la mirada. Con este punto tenemos la concordancia de la hipotesis de la mirada, de la mirada hipotetica que caracteriza segmentos sucesivos de la narracion. Este principio es el principio. Primera observacion: en este punto, estimado lector, tu que estas mirando al Cid que observa la nada y sufre, tu mismo eres el vacio.
+    
+    - Una pregunta esencial: ¿hacia donde __torna__ la cabeza el Cid? Este tambien es un movimiento que hay que indagar, quizas mas aun que la mirada misma. Con esta observacion, el narrador se ha puesto detras de los ojos del Cid, ha limitado el punto de vista de la narracion a su sola perspectiva. No podemos mirar nada mas que lo que ve el Cid. Los objetos observados por la narracion son objetos observados por el mismo.
+    
+1. Tirada __2__
+
+    - Esta es la identificacion entre el destierro y un nuevo principio espacial. Este es el momento en el que el personaje es empujado de su dimension inicial, en el que ya no tiene la posibilidad de volver, en el que esta puerta es atravesada. Hay que pensarlo bien: esta puerta abierta es la puerta de la narracion misma, y es el ingreso del personaje en nuestro punto de vista.  
+    
+    - Hay que pensarlo bien tambien porque este punto de vista define nuestro mismo deseo de _ver_ al Cid. _Ver_ al Cid y _ver lo que ve_ el Cid. Reciprocidad del deseo. Ser vistos por el, ser reconocidos por el. La mirada es poder. Los espacios obscuros ocupados por los personajes marginales constituyen espacios de prensencia del lector.
+    
+    > Alli piensan de aguijar, alli sueltan las riendas.
+    > A la exida de Bivar ovieron la corneja diestra
+    > y entrando a Burgos ovieron la siniestra.
+    > Meçio mio Çid los ombros y engrameo la tiesta:
+    > '¡Albriçia, Albar Ffañez, ca echados somos de tierra!'
+    
+    - La mirada del lector, el principio de la narracion y el destierro son la misma cosa. Identidad de tres puntos: _mirada_, _narracion_, _destierro_.
+    
+    - Realmente hay que seguir pensando en ese punto: la cabeza tornada hacia algo. Hay que preguntarse que quiere decir precisamente, cual pueda ser su importancia. Donde esta mirando, esta mirando hacia atras? Que posicion estamos ocupando nosotros, entonces?
+    
+1. Tirada __3__
+
+    - La presencia de los burgueses. Raramente un _incipit_ puede ser tan indicativo precisamente de todo lo que queremos formular. Esta es la presencia de una __comunidad__ nueva. Esta es la utilizacion de la vision, la __empatia__, como modelo de creacion de una comunidad de intentos. Una comunidad ideal que pueda compartir los mismos valores. Este pasaje transforma el primer escambio, intimo, con el Çid, en un escambio colectivo, que funda una pequeña comunidad, o que posee la potencialidad para crearla, formularla.
+    
+    > Exien lo ver mugieres e varones,
+    > burgeses e burgesas por las finiestras son,
+    > plorando de los ojos tanto avien el dolor.
+    > De las sus bocas todos dizian una razon:
+    > '¡Dios, que buen vassalo! ¡Si oviesse buen señor!'
+    
+    - ¿Como imaginar esta escena? Hay que pensar en marcos individuales, distintos - cada uno define un punto de vista individual, de un singular burgues, sobre el Cid exiliado. Hay que pensar que los burgueses no puedan verse entre ellos. Justamente, esta colectividad de miradas distintas y autonomas produce una voz singular, univoca, inconfondible. Justamente todos poseen la misma opinion sobre el Cid; mejor aun, justamente todos poseen la misma opinion sobre lo que quiere decir tener un buen señor y ser un buen vassalo.
+    
+1. Tirada __4__
+
+    - Los __ojos de la cara__; los instrumentos de esta condivision del punto de vista, y de la expresion de un dolor colectivo a traves de una experiencia individual multiplicada, pueden ser subtractos por el rey, el rey puede apoderarse de ellos. El rey puede apoderarse de la facultad de ver. Esta expresion es repetida por la niña.
+    
+    - El exilio es esta privacion. Es la privacion de este punto de vista. ¿Hacia donde torna la cabeza el Cid? ¿Cual es el punto hacia el que mira o puede mirar?
+    
+    > Conbidar le ien de grado mas ninguno osava;
+    > el rey don Alfonsso tanto avie la gran saña,
+    > antes de la noche en Burgos del entro su carta
+    > con grand recabto e fuerte mientre sellada,
+    > que a mio Çid Ruy Diaz que nadi nol diesse(n) posada,
+    > e aquel que gela diesse sopiesse - vera palabra -
+    > que perderie los averes e mas los ojos de la cara
+    > e aun demas los cuerpos e las almas.
+    > Grande duelo avien las yentes cristianas;
+    > asconden se de mio Çid ca nol osan dezir nada.
+    
+1. Tiradas __7__-__11__
+
+    - Raquel y Vidas. Todo lo que en el poema acontece de noche. Como la historia del Çid es un pasaje a traves de la oscuridad; como es un pasaje del dia a la noche. Los pasajes del dia a la noche son recurrentes en el poema, son uno de sus rasgos estilisticos mas notables. El pasaje a traves de Raquel y Vidas es emblematico de esta transicion.
+    
+    - Las consideraciones esenciales son el hecho de que todo deba acontecer en _privado_ (148) y de que a Rachel y Vidas sea absolutamente prohibido que _las catassen_ (164). La consigna de esta orden hace que el Cid mismo se vuelva una eco del rey - el Cid tiene la facultad de impedir que Rachel y Vidas vean y sean vistos.
+    
+    > Los guadameçis vermejos e los clavos bien dorados.
+    > Por Rachel e Vidas vayades me privado;
+    > quando en Burgos me vedaron compra y el rey me a airado,
+    > non puedo traer el aver ca mucho es pesado,
+    > enpeñar gelo he por lo que fuere guisado.
+    > De noche lo lieven que no lo vean christianos;
+    > vealo el Criador con todos los sos santos,
+    > yo mas non puedo e amidos lo fago.'
+    
+1. Tiradas __12__-__17__
+
+    - Reencuentro entre el Cid y familia; restoracion de la vision. Importancia de las puertas, quizas. Quizas compartimos en entre momento el punto de vista del abbat mismo, estamos adentro del convento y vemos lo que pasa entre _doña Ximena_ y _don Sancho christiano del Criador_ (237-241). La puerta se abre, y compartimos, con ellos, el descubrimiento del Cid, la joya de volver a ver el Cid.
+    
+    > Llamavan a la puerta, i sopieron el mandado;
+    > ¡Dios, que alegre fue el abbat don Sancho!
+    > Con lumbres e con candelas al corral dieron salto,
+    > con tan grant gozo reçiben al que en buen ora nasco:
+    > '¡Gradesco lo a Dios, mio Çid!' dixo el abbat don Sancho;
+    > 'Pues que aqui vos veo prendet de mi ospedado.'
+    
+    - Insistencia lexical sobre la vision como __conocimiento__, y sobre los ojos que lloran.
+    
+    > ¡Merçed, ya Çid, barba tan complida!
+
 ##Notas generales
 
 - Sintaxis como interacción entre: la mirada, la escritura, y el arte militar. La visión del caballero que está encima de su caballo, mirando a sus tropas antes del principio de la batalla - esa fusión de elementos bélicos, lingüísticos, visuales.

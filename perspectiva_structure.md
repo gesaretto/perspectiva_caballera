@@ -10,6 +10,22 @@ _14 Diciembre 2014_
 
 La narración del _Cantar de Mio Cid_ se abre con la mirada del protagonista sobre los signos de su desgracia: puertas abiertas y perchas vacías. El destierro del héroe, correspondiente a la ruptura del vínculo político y afectivo que lo unía a su señor, se manifiesta a través de una serie de privaciones visuales: siguiendo "los sos ojos", el lector es incitado a imaginar los objetos que caracterizaban un pasado ya inaccesible, unidos por la repetición privativa de la preposición "sin" (vv. 1-5), y a negarlos para proyectar sus expectativas hacia la fundación de una futura perspectiva territorial y colectiva, sugerida por el acceso a las "puertas abiertas" (v. 3). Esta negación de la mirada vuelve a menudo en el texto: es al mimsmo tiempo una forma de marginación, como en el caso de la carta real en Burgos, con su amenaza de sustraer "los ojos de la cara" (v. 27), y una nueva oportunidad de desarrollo, como en el caso del trato con Raquel y Vidas, concordado de noche para que "no lo vean cristianos" (v. 93). En el ámbito del _Cantar_ y de su género, este trabajo se propone entonces investigar las modalidades en las que la facultad de la visión constituye simultáneamente un signo de exclusión, un instrumento de definición e incorporación de identidades colectivas, y una ocasión de transformación social.
 
+##Estructura final
+
+1. En modalidad cursi: _¿de que sirven los ojos?_ Observadores: un __contacto__ entre sujeto y objeto (el leon); __conocimiento__; __para llorar__. Los primeros ojos del poema, los del _Cid_, __lloran__ y __conocen__. Al mismo tiempo, establecen un contacto con su observador: el lector. Esto hay que suponer: estos ojos nos estan mirando a nosotros.
+
+1. Negacion de la mirada: como el __exilio__ es una negacion:
+
+    1. la negacion de los primeros versos (__sin__, __sin__ - hablaremos mas de ella considerando la modalidad hipotetica que tan a menudo esta presente en el poema);
+    1. la negacion de la orden real: los ojos de la cara, repetidos por la niña; el exilio es la ruptura de ese momento de colectividad autorizado por la reciprocidad de la mirada;
+    1. Raquel e Vidas, ocupando el margen de la sociedad; __no__ son vistos, todo debe acontecer en _privado_ (palabra fundamental en todo el poema).
+    
+1. Recuperacion de la mirada como momento de centralidad visual - los momentos de centralizacion geografica.
+
+1. La modalidad hipotetica; el deseo del lector.
+
+1. En modalidad cursi: _final_.
+
 ##Estructura tentativa
 
 1. Introducción: el incipit del _Cantar de Mio Cid_ entre negación e innovación
