@@ -99,6 +99,38 @@
     - Insistencia lexical sobre la vision como __conocimiento__, y sobre los ojos que lloran.
     
     > ¡Merçed, ya Çid, barba tan complida!
+    > Fem ante vos yo e vuestras fijas
+    > -iffantes son e de dias chicas-
+    > con aquestas mis dueñas de quien so yo servida.
+    > Yo lo veo que estades vos en ida
+    > e nos de vos partir nos hemos en vida:
+    > ¡Da(n)d nos consejo por amor de Santa Maria!'
+    > Enclino las manos [el de] la barba velida,
+    > a las sus fijas en braço' las prendia,
+    > legolas al coraçon ca mucho las queria.
+    > Lora de los ojos, tan fuerte mientre sospira:
+    > 'Ya doña Ximena la mi mugier tan complida,
+    > commo a la mi alma yo tanto vos queria!
+    > Ya lo vedes que partir nos emos en vida,
+    > Yo ire e vos fincaredes remanida.
+    
+    - La separacion. Entonces, esta escena es un calco de la escena inicial - es el mismo grupo de acciones, pero occurre entre individuos. Insistencia sobre la mirada como conocimiento de una separacion y de una ausencia - se _ve_ algo en el ademan y en las acciones del Cid, en su disposicion misma, que anticipa su moto de partida, su __ida__ misma. El Cid se esta yendo, y lo podemos ver. ¿Como es cualquier fenomeno de observacion un fenomeno parecido a este? Contacto y separacion. Reciprocidad del _ver_ que estamos participando a una separacion.
+    
+1. Tirada __18__
+
+    - __Longinos__
+    
+    > Longinos era çiego que nunquas vio alguandre,
+    > diot con la lança en el costado dont ixio la sangre,
+    > corrio la sangre por el astil ayuso, las manos se ovo de untar,
+    > alçolas arriba, legolas a la faz,
+    > abrio sos ojos, cato a todas partes,
+    > en ti crovo al ora por end es salvo de mal;
+    > en el monumento resuçitest,
+    > fust a los infiernos commo fue tu voluntad,
+    > quebranteste las puertas e saqueste los santos padres.
+    
+    - Hay algo sobre la gestualidad, obviamente. Hay algo a proposito del hecho de que mirar es tambien alzar los brazos, mover la cabeça, tornar la cabeça. Hay una intencionalidad implicita en el gesto, una determinacion implicita en el gesto. Hay un deseo implicito en el gesto.
 
 ##Notas generales
 
