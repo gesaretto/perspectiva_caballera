@@ -276,7 +276,89 @@
     
         - El __almofar__ es una capucha de malla que iba unida a la __loriga__;
         - la __cofia__ es un gorro de lino que recogía el cabello y evitaba el roce del almófar y el yelmo.
+        - Es esta la circunstancia en la que vemos al héroe viendo a nosotros, viendo a los demás. El héroe es capturado en el acto mismo de ver y de poseer a sus tropas. Esta es la circunstancia en la que la mirada se vuelve control jerárquico.
+        
+1. Tirada __46__
+
+    - __Mont Real__: es el espejo de la escena con Tamin, y completa la escena precedente. El control jerárquico del Cid es su posición privilegiada, su punto de vista. La disposición de sus vasalos al rededor de sí.
     
+    > Aguijo mio Çid, ivas cabadelant
+    > y ffinco en un poyo que es sobre Mont Real;
+    > alto es el poyo, maravilloso e grant,
+    > non teme gerra sabet, a nulla part.
+    > Metio en paria a Daroca enantes,
+    > desi a Molina que es del otra part,
+    > la terçera Teruel que estava delant;
+    > en su mano tenie a Çelfa la de Canal.
+    
+1. Tiradas __47__-__49__
+
+    - Los tributos reales; la relación entre el __rey__ y el __Cid__ como una transferencia de miradas.
+    
+    > ¡Mio Çid Ruy Diaz de Dios aya su graçia!
+    > Ido es a Castiella Albar Fañez Minaya;
+    > treinta cavallos al rey los enpresentava.
+    > Violos el rey, fermoso sonrrisava:
+    > '¿Quin los dio estos? ¡Si vos vala Dios, Minaya!'
+    > 'Mio Çid Ruy Diaz que en buen ora çinxo espada
+    > vençio dos reyes de moros en aquesta batalla;
+    > sobejana es, señor la su ganançia.
+    
+    - La __vuelta de Minaya__ obedece al mismo criterio de espectativa y conforte visual.
+    
+    > Quando vio el caboso que se tardava Minaya
+    > con todas sus yentes fizo una trasnochada;
+    > dexo el Poyo, todo lo desemparava,
+    > alen de Teruel don Rodrigo passava,
+    > en el pinar de Tevar don Roy Diaz posava.
+    
+    - Y luego el encuentro. Hay que establecer un criterio de distinción entre estas circunstancias de satisfacción visual, de encuentro logrado, funcional, y las ocasiones precedentes - en las que el Çid miraba al objeto de la separación. Quizás pueda haber un cambio en la evolución del motivo literario: la mirada es antes empleada para separar a los agentes, y luego empleada para significar su concordancia y su cercanía. Antes es la separación, luego se vuelve el reencuentro.
+    
+    > Quando vio mio Çid asomar a Minaya
+    > el cavallo corriendo valo abraçar sin falla;
+    > beso le la boca e los ojos de la cara,
+    > todo helo dize que nol encubre nada.
+    > El Campeador fermoso sonrrisava:
+    > '¡Grado a Dios e a las sus vertudes santas!
+    > ¡Mientra vos visquieredes bien me ira a mi, Minaya!'
+    
+    - Crucial identidad entre esta acogida y la acogida real, con Minaya que funciona de la misma manera, de transferencia visual. Esta es la definición de la función social y jerarquicamente trasversal del __campo__ / __controcampo__: mirar al mismo personaje determina las mismas funciones sociales, funciones sociales especulares, una gestualidad especular.
+    
+1. Tirada __54__
+
+    - Y habría que estudiar con mayor atención, si tuvieramos más tiempo y más instrumentos, la manera en la que la mirada del narrador adhiere a los rasgos y a la expresividad misma de su protagonista; es una mirada llena de deseo y de amor. ¿Cómo se define o cómo se explica esta componente? ¿Cómo justificar esta presencia sensible, el amor y el deseo probados por un narrador hacia su protagonista, implicitos simplemente en la manera en la que sus rasgos son descritos, apreciados?
+    
+    > Con estas ganançias a la posada tornando se van;
+    > todos son alegres, ganançias traen grandes.
+    > Plogo a mio Çid e mucho a Albar Fañez.
+    > Sonrrisos el caboso que non lo pudo endurar:
+    > 'Hya cavalleros! dezir vos he la verdad:
+    > qui en un lugar mora siempre lo so puede menguar;
+    > cras a la mañana penssemos de cavalgar,
+    > dexat estas posadas e iremos adelant.'
+    
+1. Tirada __60__
+    
+    - El ayuno del Conde de Barçelona se describe como la ruptura de su conexión con el resto de la sociedad humana; es una ruptura visual, otra vez.
+    
+    > Mio Çid Ruy Diaz odredes lo que dixo:
+    > 'Comed, conde, deste pan e beved deste vino;
+    > si lo que digo fizieredes saldredes de cativo,
+    > s non, en todos vuestros dias non veredes christianismo.'
+    
+    - La misma expresión es adoperada más adelante. La visión es, como la comida, una componente esencial de la comunidad humana, de la posibilidad del hombre de relacionarse a su próximo.
+    
+1. Tirada __63__
+
+    - El final del cantar es una eco del principio, con una mirada hacia atrás.
+    
+    > Aguijava el conde e penssava de andar;
+    > tornando va la cabeça e catandos atras,
+    > miedo iva aviendo que mio Çid se repintra,
+    > lo que non ferie el caboso por quanto en el mundo ha
+    > -una deslea[l]tança- ca non la fizo alguandre.
+    
+    - En este final circular se confirma el significado de la sección inicial; el Çid se ha vuelto capaz de imponer el exilio él mismo.
     
 - - -
 
