@@ -2,6 +2,8 @@
 
 ##Puntos esenciales
 
+###Primer cantar
+
 1. Tirada __1__
 
     - Hay que determinar la existencia de __campo__ y __controcampo__. Hay que determinar la importancia de __campo__ y __controcampo__. Hay que determinar la manera en la que el lector se vuelve parte de este mecanismo de __campo__ y __controcampo__. El lector mira al observador mientras que el observador observa. El lector se vuelve, a menudo, el __controcampo__. Caracteristica inicial es la colocacion espacial del lector en la misma posicion:
@@ -274,6 +276,8 @@
     > ¡Grado a Dios aquel que esta en alto,
     > quando tal batalla avemos arancado!'
     
+    - Cuestiones léxicas:
+    
         - El __almofar__ es una capucha de malla que iba unida a la __loriga__;
         - la __cofia__ es un gorro de lino que recogía el cabello y evitaba el roce del almófar y el yelmo.
         - Es esta la circunstancia en la que vemos al héroe viendo a nosotros, viendo a los demás. El héroe es capturado en el acto mismo de ver y de poseer a sus tropas. Esta es la circunstancia en la que la mirada se vuelve control jerárquico.
@@ -360,6 +364,47 @@
     
     - En este final circular se confirma el significado de la sección inicial; el Çid se ha vuelto capaz de imponer el exilio él mismo.
     
+###Segundo cantar
+
+1. Tiradas __65__-__66__
+
+    - __Toma de Valencia__: _Ver_ sigue siendo una facultad esencial de la práctica caballeresca.
+    
+    > El con todo esto priso a Murviedro;
+    > ya vie mio Çid que Dios le iva valiendo.
+    > Dentro en Valençia non es poco el miedo 
+    
+    - Lo mismo más adelante, con el contraste ya conocido entre _ver_ sin _ser vistos_.
+    
+    > Pesa a los de Valençia sabet, non les plaze;
+    > prisieron so consejo quel viniessen çercar;
+    > trasnocharon de noch, al alva de la man
+    > açerca de Murviedro tornan tiendas a fincar.
+    > Violo mio Çid, tomos a maravillar:
+    > '¡Grado a ti Padre spirital!'
+    > En sus tierras somos e femos les todo mal,
+    > bevemos so vino e comemos el so pan;
+    > si nos çercar vienen con derecho lo fazen.
+    
+    - Es cierto, podemos tener la impresión que estas expresiones no vehículen solamnente la abilidad caballeresca del campeador, capacidad visiva de comprensión de la realidad, sino también el principio de un contacto directo entre Dios y el héroe. Esta es la sección de la vuelta de la vista, como en el episodio de __Longinos__. Nótese la identidad entre __comunidad cristiana__, __comida__, y __visión__. __Comunión__ y __visión__ se vuelven entonces la misma cosa.
+    
+1. Tirada __75__
+
+    - Más modalidad hipotética.
+    
+    > Apres de la uerta ovieron la batalla,
+    > arrancolos mio Çid el de la luenga barba;
+    > fata dentro en Xativa duro el arrancada,
+    > en el passar de Xucar i veriedes barata,
+    > moros en aruenço amidos bever agua;
+    > aquel rey de [Sevilla] con tres colpes escapa.
+    
+1. Tirada __87__
+
+    - Momento de reconciliación y síntesis de la capacidad caballeresca de mantener una mirada síntetica sobre lo que se posee.
+    
+    > 
+
 - - -
 
 ##Notas generales
