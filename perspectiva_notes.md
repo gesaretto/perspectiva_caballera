@@ -399,11 +399,153 @@
     > moros en aruenço amidos bever agua;
     > aquel rey de [Sevilla] con tres colpes escapa.
     
+1. Tirada __83__
+
+    - El saludo del __moro Avengalvon__ obedece a los criterios de identificiación visual, gestualidad y registración de una reacción emotiva.
+    
+    > Quando lego Avengalvon dont a ojo [lo] ha
+    > sonrrisando se de la boca hivalo abraçar,
+    > en el ombro lo saluda ca tal es su husaje:
+    > '¡Tan buen dia con vusco Minaya Albar Fañez!
+    
+    - La __sonrisa__ siempre es un elemento fuertemente visual; sonreir es sonreir para ser vistos por alguien. Sonreir sólo existe cuando un observador es capaz de percebir la sonrisa. No existe una sonrisa solitaria, siempre es un contacto del protagonista con algo - con un observador visible o invisible, humano o divino, que es capaz de percibir y registrar la reacción. Las sonrisas y los llantos del Poema de Mio Cid obedecen a esta necesidad: siempre hay alguien que observa el personaje que sonrie, sea un interlocudor, un narrador, Dios mismo (el lector siempre está detrás de todas estas encarnaciones - el lector siempre es el controcampo ocupado por quien está registrando la reacción, justamente: el lector es al mismo tiempo el interlocudor, el narrador, Dios mismo; el lector ocupa el mismo espacio del __controcampo__).
+    
+1. Tirada __84__
+
+    - Prestar atención a fórmulas como esta, para nuestra argumentación sobre el primer cantar como una transición de la noche al día (metafórica, espiritual, política)
+    
+    > Passada es la noche, venida es la mañana,
+    > oida es la missa e luego cavalgavan;
+    > salieron de Medina e Salon passavan,
+    > Arbuxuelo arriba privado aguijavan,
+    > el campo de Torançio luegol atravessavan,
+    > vinieron a Molina la que Avengalvon mandava.
+    
+1. Tirada __86__
+
+    - El reencuentro con __doña Ximena__ es, obviamente, precedido por una instancia de reconocimiento visual (pero estos no son, probablemente, episodios en si mismos significativos - __ver__ es aquí inevitablemente un sustituto de _reconocer_).
+    
+    > Quando lo vio doña Ximena a pies se le echava:
+    > '¡Merçed, Campeador en buena ora çinxiestes espada!
+    > Sacada me avedes de muchas verguenças malas;
+    > afe me aqui, señor, yo [e] vuestras fijas amas,
+    > con Dios e con vusco buenas son e criadas.'
+    
 1. Tirada __87__
 
-    - Momento de reconciliación y síntesis de la capacidad caballeresca de mantener una mirada síntetica sobre lo que se posee.
+    - __Valençia__. Momento de reconciliación y síntesis de la capacidad caballeresca de mantener una mirada síntetica sobre lo que se posee. Este es el momento en el que la perspectiva estratégica caballeresca, la capacidad de mantener un control sobre lo que se posee y lo que se controla, se encuentran con la reconciliación esperida por el Çid y familia. El ingreso a Valençia es una recomposición de lo que se ha perdido, una reapropiación de lo que la primera tirada del cantar entero había tan sistematícamente negado. Los ojos __velidos__ son ojos bellos. Es el mismo gesto de __Longinos__.
     
-    > 
+    > Adeliño mio Çid con ellas al alcaçar
+    > ala las subie en el mas alto logar.
+    > Ojos velidos catan a todas partes,
+    > miran Valençia commo yaze la çibdad
+    > e del otra parte a ojo han el mar;
+    > miran la huerta espessa es e grand;
+    > alçan las manos por a Dios rogar
+    > desta ganançia commo es buena e grand.
+    
+    - Este es el episodio que termina la recuperación del Çid, la reintegración del Çid. Su tierra y su familia; sólo falta el reconocimiento de su rey - pero eso queda marginal. Desde un punto de vista poético, el Çid ya es un hombre completo. Este es un nuevo centro, positivo.
+    
+    - Desde la primera tirada, el Çid es un elemento de concentración de la mirada. El Çid es un centro geográfico, justamente; como explica __J.R.V.__, la frontera se mueve con él. Esta frontera es un punto de vista. Hay que entender el significado de los gestos que acompañan su mirada también. Son gestos que definen la proyección de un punto de vista espécifico, son gestos que le piden al lector que haga más o menos lo mismo - que mueva su cabeza en una dirección o en la otra, que dibuje y que trace sus espectativas de una manera precisa. El primero __tornar la cabeça__ es un movimiento de separación; lo mismo en el momento en el que el Cid tiene que separarse de sus hijas. Ahora los movimientos de reintegración son apropiaciones de un punto de vista __completo__, de un _Panopticon_ ideal. En las tres circunstancias - __Longinos__, __Mont Real__, y esta, los personajes tienen que mirar _a todas partes_. Su cabeça se mueve en todas las direcciones, unívocamente establecida por el nuevo poder del héroe. Hay que estudiar con atención los movimientos que definen la __separación__ y la __integración__, y al mismo tiempo las estrategias que llevan de un movimiento al otro (de exclusión, de _ver_ sin ser visto).
+    
+    - __Panopticon__ suena como una estrategia extremandamente funcional para entender este criterio. La idea de mirada universal, y al mismo tiempo de mirada que permite la posibilidad de _ver_ sin _ser visto_.
+
+1. Tirada __90__
+
+    - Sigue este momento de condivisión del __punto de vista__, de reintegración de la familia del Cid adentro de la comunidad que él mismo ha establecido en las secciones precedentes; una comunidad basada en el poder guerrero. __Ver__ es participar y poseer. __Este ver es nuestro__, obviamente: es la capacidad de ver que los personajes que no son el Cid compartecen con el lector; ser como el Cid, estar cerca de él, querer ser él. Esta sección es una clara eco de la invocación de __Longinos__, y una propuesta de integración visual, como hemos visto.
+    
+    > '¡Grado al Criador e a[l] Padre espirital!
+    > Todo el bien que yo he todo lo tengo delant;
+    > con afan gane a Valençia y ela por heredad,
+    > a menos de muert no la puedo dexar.
+    > ¡Grado al Criador e a Santa Maria madre
+    > mis fijas e mi mugier que las tengo aca!
+    > Venidom es deliçio de tierras d'alent mar;
+    > entrare en las armas, non lo podre dexar;
+    > mis fijas e mi mugier verme an lidiar,
+    > en estas tierras agenas veran las moradas commo se fazen,
+    > ¡afarto veran por los ojos commo se gana el pan!'
+    > Su mugier e sus fijas subiolas al alcaçar,
+    > alçavan los ojos, tiendas vieron fincadas:
+    > '¿Ques esto, Çid? ¡Si el Criador vos salve!'
+    > '¡Ya mugier onrada non ayades pesar!
+    > Riqueza es que nos acreçe maravillosa e grand;
+    > ¡a poco que viniestes presend vos quieren dar;
+    > por casar son vuestras fijas: aduzen vos axuvar!'
+    
+    - Doña Ximena y las dos hijas se quedarán mirando el asalto sucesivo. Serán los testigos visuales de la batalla, como el narrador, el lector, y Dios.
+    
+    - ¿Por qué este hecho tiene esta importancia? ¿Por qué es tan importante que las armas sean vistas por las mujeres?
+    
+    - Una pregunta: ¿estamos seguros que el Cid dejó nunca de ser visto por Dios? ¿Y si lo que pasó hubiera sido un alejamiento del punto de vista real para penetrar el punto de vista de Dios? ¿Si la experiencia de Longinos hubiera sido la experiencia __inicial__ del poema, el principio de toda la narración? ¿Si, en el escoger la guerra santa contra los moros, el Çid hubiera logrado dejar su contacto inicial - el vasalaje terreno - para participar en un contacto teólogico, el vasalaje divino? ¿Si el pasaje de __Longinos__ fuera, entonces, el descubrimiento de otro punto de vista, autónomo y - finalmente - teólogico?
+    
+    - ¿Si la oscuridad del poema fuera una oscuridad política pero no una oscuridad teólogica? ¿Si fuera ese el fundamento que lleva esta clase social a definirse como un antecesor de la burguesía? ¿Saber que mis acciones tienen sentido e importancia, aunque no sean inmediatamente registradas por la jerarquía horizontal de la monarquía feudal? ¿Si solo fuera suficiente saber que Dios me está mirando, que lo que estoy haciendo posee una valencia teólogica? ¿Si fuera este el espíritu del renacimiento humanistico del siglo XII?
+    
+    - El __narrador__ me puede ver, el __lector__ me puede ver, __Dios__ me puede ver; las tres cosas coinciden; luego, el __Cid__ mismo se vuelve una categoría parecida al __narrador__, al __lector__, y a __Dios__: su capacidad de control sobre la realidad, su capacidad guerrera, está basada en el hecho de que él pueda _ver_ sin _ser visto_; y que pueda ver _a todos lados_. Idea de __reciprocidad__ entre __vassalo__ y __Señor__: los dos tienen la habilidad de ver todo y de ver sin ser vistos. __Longinos__ es la característica esencial de este esquema: la vista que Dios le regala a __Longinos__ es precisamente esta capacidad que él va a compartir con Dios mismo.
+    
+    - Dios y la caballería son dos máquinas de visión total, dos constituciones de un __panopticon__; _Dios_ le regala a su vassalo esta capacidad de verlo todo, precisamente lo que sucede con __Longinos__.
+    
+    - Esta capacidad de verlo todo es, desde un simple punto de vista militar, la posibilidad de actuar con una ventaja sobre los adversarios; desde un punto de vista ético, la posibilidad de actuar a los márgenes de la sociedad y guíados por criterios que serían, de otra manera, dudables; actuar, entonces, por una recompensa propia. Este podría ser el nacimiento de una sujetividad y de una autonomía decisional y ética. __Raquel y Vidas__ son un ejemplo.
+    
+    - Como hemos visto, la participación a la comunidad cristiana es idéntica a la idea de comunión y de visión (lo que está ya encarnado en el diálogo con el conde de Barcelona - comer es ver, reiteradamente). ¿Es esta participación algo explicitamente positivo? ¿No podría ser ese pasaje algo enteramente irónico, una instancia de rechazo y de desprecio o menosprecio?
+    
+    - ¿Idea de autonomía valorizada contra la idea de comunidad, entonces? _Mirar_ es participar a una comunidad; _mirar_ es la instauración de una relación.
+    
+1. Tiradas __92__-__93__
+
+    - Batalla afuera de __Valençia__. Insistencia sobre el acto de __ver__; siempre es _ver_ __antes__, ver sin ser vistos.
+    
+    > Violo el atalaya e tanxo el esquila;
+    > prestas son las mesnadas de las yentes christianas,
+    > adoban se de coraçon e dan salto de la villa;
+    > dos fallan con los moros cometien los tan aina,
+    > sacan los de las huertas mucho a fea guisa,
+    > quinientos mataron dellos conplidos en es dia.
+    
+    - El poder del Çid sobre los suyos siempre es un poder visual.
+    
+    - Domanda obvia, y posibilidad que no podemos excluir tan facílmente: ¿estamos seguros de que la visión siempre tiene que poseer el mismo valor a través de los personajes y de las funciones de la narración? ¿Por ejemplo, la visión del __narrador__ y del __lector__ (que ven sin ser vistos, y de vez en cuando sólo pueden imaginar, pero no pueden ver) puede realmente ser análoga a la visión del Çid y de sus mujeres?
+    
+    - Las separaciones del libro, tan obvias en el primer cantar, son separaciones visuales - no cabe lugar a duda; pero estamos seguros de que la identidad entre señor y vassallo era una identidad visual? __Respuesta__: sí, tenemos las interacciones con Minaya para probarlo. No cabe lugar a duda, la __visión__ es un instrumento de cohesión y de poder social. La reciprocidad de la visión indica la existencia de una __comunidad__; visiones asímetricas, por el otro lado, indican un poder asímetrico: el Çid tiene poder sobre sus hombres y sobre su ciudad.
+    
+    - También tendremos que investigar más la función específica del robledo de Corpes. ¿Cómo funciona el robledo de Corpes? ¿Cómo funciona esa visión asímetrica?
+    
+    - La visión asímetrica por excelencia es la visión divina. __Ver más__ y __ver sin ser vistos__ siempre son atributos divinos; el __Çid__ empieza a compartir estas caractéristicas con __Longinos__. Lo que Dios le concede a __Longinos__ es un poder, no solamente una bendición. Hay que transformar a Longinos en un prototipo del __caballero__; esa es la misma máquina.
+    
+    - Longinos y el Cid van a compartir con el lector y con Dios la capacidad de ver sin ser vistos y la capacidad de verlo todo. La estructura poética de este recurso tiene una evolución - desde los límites del principio, con el explicito __tornar la cabeza__ de los primeros versos, hacia la __visión total__ de estas secciones, en las que el Çid y las mujeres tienen la facultad de inspeccionar lo que poseen desde una perspectiva privilegiada.
+    
+    > Tornados son a mio Çid los que comien so pan,
+    > el selo vio con los ojos, cuentan gelo delant.
+    > Alegre es mio Çid por quanto fecho han:
+    > '¡Oid me, cavalleros, non rastara por al!
+    
+1. Tirada __94__
+
+    - Moverse de noche siempre es __ver sin ser vistos__.
+    
+    > El dia es salido e la noche entrada es.
+    
+1. Tirada __95__
+
+    - El Çid le habla a sus mujeres después de la batalla; esta escena es la esencia de la perspectiva caballera. Es la esencia del __deseo__.
+    
+    > Reçibien lo las dueñas que lo estan esperando
+    > mio Çid finco ant'ellas, tovo la rienda al cavallo:
+    > '¡A vos me omillo, dueñas! Grant prez vos he gañado,
+    > vos teniendo Valençia e yo vençi el campo;
+    > esto Dios se lo quiso con todos los sos santos
+    > quando en vuestra venida tal ganançia nos an dada.
+    > Vedes el espada sangrienta e sudiento el cavallo,
+    > ¡con tal cum esto se vençen moros del campo!
+    > Roga(n)d al Criador que vos biva algunt año,
+    > entraredes en prez e besaran vuestras manos.'
+    > Esto dijo mio Çid diçiendo del cavallo;
+    > quandol vieron de pie, que era descavalgado,
+    > las dueñas e las fijas e la mugier que vale algo
+    > delant el Campeador los inojos fincaron:
+    > '¡Somos en vuestra merçed e bivades muchos años!'
+    
+    - No solamente el poder de __ver sin ser vistos__, sino también de __ser vistos__. El _panopticon_ caballeresco es la centralidad de la mirada también como poder pasivo; es la concentración del deseo. Hay que ver el caballero en el campo; hay que admirarlo y desearlo. Justamente la escena central de la presentación del héroe en el campo - la escena central de esta función de concentración del deseo - es una escena de contemplación femenina, sensual, erotizada. Esta escena es el paradigma de cada contemplación en el campo de batalla. El __Çid__ puede ejercer su poder al mimso tiempo _viendo sin ser visto_ y _siendo visto_.   
 
 - - -
 
