@@ -545,7 +545,80 @@
     > delant el Campeador los inojos fincaron:
     > '¡Somos en vuestra merçed e bivades muchos años!'
     
-    - No solamente el poder de __ver sin ser vistos__, sino también de __ser vistos__. El _panopticon_ caballeresco es la centralidad de la mirada también como poder pasivo; es la concentración del deseo. Hay que ver el caballero en el campo; hay que admirarlo y desearlo. Justamente la escena central de la presentación del héroe en el campo - la escena central de esta función de concentración del deseo - es una escena de contemplación femenina, sensual, erotizada. Esta escena es el paradigma de cada contemplación en el campo de batalla. El __Çid__ puede ejercer su poder al mimso tiempo _viendo sin ser visto_ y _siendo visto_.   
+    - No solamente el poder de __ver sin ser vistos__, sino también de __ser vistos__. El _panopticon_ caballeresco es la centralidad de la mirada también como poder pasivo; es la concentración del deseo. Hay que ver el caballero en el campo; hay que admirarlo y desearlo. Justamente la escena central de la presentación del héroe en el campo - la escena central de esta función de concentración del deseo - es una escena de contemplación femenina, sensual, erotizada. Esta escena es el paradigma de cada contemplación en el campo de batalla. El __Çid__ puede ejercer su poder al mimso tiempo _viendo sin ser visto_ y _siendo visto_.
+    
+1. Tirada __103__
+
+    - __Preparación de las vistas__. Nótese que no hay verbos de visión en las interacciones entre Minaya y el rey. Pero sí los hay aquí.
+    
+    > Al rey onrado delant le echaron las cartas:
+    > quando las vio de coraçon se paga:
+    > 'Saludad me a mio Çid el que en buen ora çinxo espada;
+    > sean las vistas destas .iii. semanas;
+    > s'yo bivo so ali rie sin falla.'
+    > No lo detardan, a mio Çid se tornavan.
+    > Della part e della pora la[s] vistas se adobavan:
+    > ¿quien vio por Castiella tanta mula preçiada
+    > e tanto palafre que bien anda,
+    > cavallos gruessos e coredores sin falla,
+    > tanto buen pendon meter en buenas astas,
+    > escudos boclados con oro e con plata,
+    > mantos e pielles e buenos çendales d'Andria?
+    
+    - Pasaje magnífico, aunque probablemente irrelevante para nuestra investigación. Se trata de la mirada hipotética; el lector es llamado a imaginar estos detalles en primera persona. __Ver__ y __ser vistos__ (o _ver sin ser vistos_) siempre son elementos de poder en el poema; en este caso también: el prestigio es algo visible, es implícito en la posibilidad de apreciar visivamente estas riquezas. Hay que recordarlo como ejemplo marginal.
+    
+1. Tirada __104__
+    
+    - Elementos visuales en el __perdón__ del rey __Alfonso__
+    
+    > De un dia es legado antes el rey don Alfonsso;
+    > quando vieron que vinie el buen Campeador
+    > reçebir lo salen con tan grand onor.
+    
+    - Las puertas abiertas hacia la imagen del Cid. Como en otras circunstancias, compartimos el punto de vista con quien recibe al héroe - estamos del lado de las puertas que se abren, estamos contemplando la figura que se acerca.
+    
+    - Es cierto que no existe una interacción visual tan marcada como en otras circunstancias. Quizás sólo tenemos una referencia explicita al acto de la visión, referida a la barba impresionante que representa la nueva madurez del protagonista.
+    
+    > Mio Çid Ruy Diaz que en ora buena na[çi]o
+    > en aquel dia del rey so huesped fue;
+    > non se puede fartar del, tantol querie de coraçon,
+    > catandol sedie la barba que tan ainal creçi[o].
+    > Maravillan se de mio Çid quantos que i son.
+    
+    - __Maravilla__ es una palabra clave, quizás más apropiada que la fascinación erótica que describimos antes. Quizás es lo que puede unirlo todo, mucho más que un factor seductivo: los caballeros, el rey, las mujeres, el mismo león - quizás, más que desear el Çid (o desear ser _como_ el Çid), estos sujetos tienen la experiencia de una maravilla visual. Maravilla también podría funcionar bien para la definición de una comunidad afectiva.
+    
+1. Tirada __107__
+
+    - Conclusión de las __vistas__: modalidad hipotética.
+    
+    - La modalidad hipotética siempre se refiere a una colectividad de caballeros. Sospechamos que pueda ser una modalidad que siempre identifica la potencial mirada del mismo protagonista: siempre es una invitación a identificarse con el Çid, a ver lo que el podría ver.
+    
+    - Porque de esto también se trata. Quizás __Longinos__ quiera ver precisamente lo que ve su Dios. Quizás el Cid quiera ver lo que ve su Dios, y lo que ve su rey. Quizás la modalidad de deseo y maravilla, de _ver siendo vistos_ y _ver sin ser vistos_, siempre es una proyección hipotética, un deseo de identificación, de apropiación. La modalidad hipotética es la __Betrachtung__ por excelencia; es esencial establecer y entender que el sujeto siempre quiere ser el otro - que el deseo siempre es una voluntad de poseer otro punto de vista.
+    
+    - El cuento del Cid, en el primer cantar especialmente, es el cuento de una apropiación, como la de __Longinos__. Esta apropiación es compartidad por el lector.
+    
+    > Veriedes cavalleros que bien andantes son
+    > besar las manos, espedir se del rey Alfonsso:
+    > 'Merçed vos sea e fazed nos este perdon:
+    > hiremos en poder de mio Çid a Valençia la mayor;
+    > seremos a las bodas de los ifantes de Carrion
+    > he de las fijas de mio Çid, de don Elvira e doña Sol.'
+    
+1. Tirada __108__
+
+    - Esta es una gran afirmación poética, por doña Ximena.
+    
+    > '¿Venides, Campeador? ¡En buen ora çinxiestes espada!
+    > ¡Muchos dias vos veamos con los ojos de las caras!'
+    
+    - Decididamente, aquí tenemos una instancia de __deseo__, compartida con el lector. Es algo político y poético.
+    
+1. Tirada __111__
+
+    - Las __bodas__; el _Çid_ expresa su satisfacción visivamente.
+    
+    > Mio Çid de lo que veye mucho era pagado,
+    > los ifantes de Carrion bien an cavalgado.
 
 - - -
 
