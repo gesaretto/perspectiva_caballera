@@ -857,7 +857,37 @@
     > En los dias de vagar toda nuestra rencura sabremos contar.'
     
     - El Çid recobra su mirada, como Longinos y como las dueñas; esta mirada es singular y subjetiva; esta mirada siempre esconde la conciencia de ser vistos. 
+    
+- Tirada __133__: Muño Gustioz, vassallo del Çid, es mandado al rey Alfonso para contar lo que ha pasado con las hijas del Çid. La relación de vassallaje funciona con la misma idea de transferencia de la visión y del mismo código de gestos.
 
+    > Lieves el mandado a Castiella al rey Alfonsso;
+    > por mi besa le la mano d'alma e de coraçon
+    > -cuemo yo so su vassallo y el es mio señor-
+    > desta desondra que me an fecha los ifantes de Carrion
+    > que pese al buen rey d'alma e de coraçon.
+    
+    - Definición de vassallo y señor. Luego la llegada donde el rey, visivamente marcada.
+    
+    > Assi commo entraron por medio de la cort
+    > violos el rey e connosçio a Muño Gustioz;
+    > levantos el rey, tan bien los reçibio.
+    
+    - El reconocimiento visual siempre es acompañado por un sistema de gestos aparientemente codificado. Lo mismo sucede en esta circunstancia.
+    
+    - Reciprocidad y transferencia.
+    
+- Tirada __135__: el Çid y el rey Alfonso
+
+    - El encuentro tiene todavía el carácter de un contacto de empatía visual. Repetición de expresiones conocidas.
+    
+    > Quando lo ovo a ojo el buen rey don Alffonso
+    > firios a tierra mio Çid el Campeador,
+    > biltar se quiere e ondrar a so señor.
+    > Quando lo [vio] el rey por nada non tardo:
+    > '¡Par Sant Esidro verdad non sera oy!
+    > Cavalgad, Çid; si non, non avria dend sabor;
+    > saludar nos hemos d'alma e de coraçon.
+       
 - - -
 
 ##Notas generales
