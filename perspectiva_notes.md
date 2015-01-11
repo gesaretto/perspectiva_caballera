@@ -620,6 +620,121 @@
     > Mio Çid de lo que veye mucho era pagado,
     > los ifantes de Carrion bien an cavalgado.
 
+
+###Cantar tercero
+
+1. Tirada __112__
+
+    - El león. El problema es aquí, obviamente, ser vistos por la comunidad. Los infantes de Carrión vuelven a poner el problema de ser vistos o no al centro de la narración.
+    
+    > En esto desperto el que en buen ora naçio,
+    > vio çercado el escaño de sus buenos varones:
+    > '¿Ques esto, mesnadas, o que queredes vos?'
+    > '¡Hya señor onrado rebata nos dio el leon!'
+    > Mio Çid finco el cobdo, en pie se levanto,
+    > el manto trae al cuello e adeliño pora[l] leon;
+    > el leon quando lo vio assi envergonço
+    > ante mio Çid la cabeça premio y el rostro finco;
+    > mio Çid don Rodrigo al cuello lo tomo
+    > e lieva lo adestrando, en la red le metio.
+    > A maravilla lo han quantos que i son
+    > e tornaron se al (a)palaçio pora la cort.
+    
+    - __Maravilla__ es realmente un concepto esencial. Es lo que distingue al Çid, es una percepción que el lector debe compartir con los protagonistas del libro, y con los personajes que por primeros se vuelven testigos de las hazañas del Cid. __Wonder__. __Wonder__ es la creación de una comunidad, es un acercamiento de la comunidad a un fenomeno todavía desconocido, es intentar acercarse a lo que todavía no se conoce. Es una proyección de la imaginación. Es un intento de ir más allá de la mirada, pero es activado por la mirada - por un primer nivel de la mirada (el __conocimiento__ de algo que no puede ser completamente explicado).
+    
+    - El episodio es entonces basado en el contraste entre la maravillosa capacidad del Cid, de poner en su sitio el león, y la avergonzosa incapacidad de los infantes, que se esconden de la comunidad.
+    
+    > Mio Çid por sos yernos demando e no los fallo,
+    > mager los estan lamando ninguno non responde.
+    > Quando los fallaron assi vinieron sin color;
+    > ¡non viestes tal guego commo iva por la cort!
+    
+1. Tirada __114__
+
+    - Las __fuerzas de Marruecos__; otra vez, visión como capacidad militar.
+    
+    > Mas, sabed, de cuer les pesa a los ifantes de Carrion
+    > ca veyen tantas tiendas de moros de que non avien sabor.
+    > Amos hermanos apart salidos son:
+    > 'Catamos la ganançia e la perdida no;
+    > ya en esta batalla a entrar abremos nos,
+    > ¡esto es aguisado por non ver Carrion,
+    > bibdas remandran fijas del Campeador!'
+    
+1. Tirada __115__
+    
+    - Llegada de los __moros__; otra vez la __maravilla__ como algo provocado por la visión, y como una posibilidad de poder militar. Caso interesante, porque parece que el verbo _ver_ está referido a una sensación sonora.
+    
+    > Esto van diziendo e las yentes se alegando,
+    > en la ueste de los moros los atamores sonando;
+    > a marav[i]lla lo avien muchos dessos christianos
+    > ca nunqua lo vieran, ca nuevos son legados.
+    
+1. Tirada __117__: el __obispo don Jheronimo__ en el campo de batalla
+    
+    > Dos mato con la lança e .v. con el espada;
+    > los moros son muchos, derredor le çercavan,
+    > davan le grandes colpes mas nol falssan las armas.
+    > El que en buen ora nasco los ojos le fincava,
+    > enbraço el escudo e abaxo el asta,
+    > aguijo a Bavieca el cavallo que bien anda,
+    > hiva los ferir de coraçon e de alma;
+    > en las azes primeras el Campeador entrava,
+    > abatio a .vii. e a .iiii. matava.
+    
+    - Intervención guíada por la visión del Çid, por su capacidad de reconocer al aliado en dificultad.
+    
+    - Modalidad __hipotética__
+    
+    > Mio Çid con los suyos cae en el alcança:
+    > veriedes quebrar tantas cuerdas e arrancar se las estacas
+    > e acostar se los tendales, con huebras eran tantas.
+    
+1. Tirada __118__: la matanza del __rey Bucar__; más modalidad hipotética
+
+    > Sacan los de las tiendas, caen los en alcaz;
+    > tanto braço con loriga veriedes caer apart,
+    > tantas cabeças con yelmos que por el campo caen,
+    > cavallos sin dueños salir a todas partes;
+    > .vii. migeros conplidos duro el segudar.
+    
+    - El confronto entre el rey de Marruecos y el Çid es un confronto basado en la visión reciproca
+    
+    > Mio Çid al rey Bucar cayol en alcaz:
+    > '¡Aca torna, Bucar! Venist d'alent mar,
+    > verte as con el Çid el de la barba grant,
+    > ¡saludar nos hemos amos e tajaremos amista[d]!'
+    > Repuso Bucar al Çid: '¡Cofonda Dios tal amistad!
+    > El espada tienses desnuda en la mano e veot aguijar,
+    > asi comoo semeja en mi la quieres ensayar;
+    > mas si el cavallo non estropieça o conmigo non caye
+    > ¡non te juntaras conmigo fata dentro en la mar!'
+    
+1. Tirada __119__: el Çid descubre a __Diego__ e a __Fernando__
+
+    - La modalidad es un ejemplar _campo_ y _contracampo_, parecido al episodio del rey __Tamin__ (tirada __40__); misma atención a las componentes del disfraz caballeresco, misma contemplación.
+    
+    - Se trata esta vez de poseer más explicitamente el punto de vista del Çid; ver el Çid, luego ver lo que ve el Çid.
+    
+    > Mio Çid Ruy Diaz el Campeador contado
+    > con dos espadas que el preçiava algo
+    > por la matança vinia tan privado,
+    > la cara fronzida e almofar soltado,
+    > cofia sobre los pelos fronzida della yaquanto.
+    > Algo vie mio Çid de lo que era pagado;
+    > alço sos ojos, est[a]va adelant catando
+    > e vio venir a Diego e a Fernando
+    > -amos son fijos del conde don Gonçalo-.
+    > Alegros mio Çid, fermos sonrrisando:
+    > '¿Venides, mios yernos? Mios fijos sodes amos!
+    
+    - Quizás este episodio en sí mismo sería suficiente a justificar un analisis de la función de la visión en el poema; en este caso se trata de una cantidad de elementos diferentes que confluyen en un instante:
+    
+        1. El Çid es visto en el campo de batalla; esta _ekphrasis_ de su aptitud es una condición de su victoria, una posibilidad para que su triunfo sea reconocido en el campo de batalla;
+        2. El Çid ve en el campo de batalla; se note la atención a la gestualidad de la mirada y a los detalles del punto de vista, con una repetición sinónimica de verbos de visión.
+        3. La visión de los infantes de Carrión es despectiva, es falsa; los infantes de Carrion adoperan los mismos instrumentos visuales utilizados por el Cid, pero los transforman en circunstancias de decepción y falsedad.
+
+
 - - -
 
 ##Notas generales
