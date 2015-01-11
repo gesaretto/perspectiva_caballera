@@ -734,6 +734,129 @@
         2. El Çid ve en el campo de batalla; se note la atención a la gestualidad de la mirada y a los detalles del punto de vista, con una repetición sinónimica de verbos de visión.
         3. La visión de los infantes de Carrión es despectiva, es falsa; los infantes de Carrion adoperan los mismos instrumentos visuales utilizados por el Cid, pero los transforman en circunstancias de decepción y falsedad.
 
+    - Lo mismo pasa con la llegada triunfal de __Minaya__: el reconocimiento colectivo de su virtud militar es compartido por el lector a través de una descripción héroica de su llegada. 
+    
+    > Minaya Albar Fañez essora es legado,
+    > el escudo trae al cuello e todo espad[ad]o;
+    > de los colpes de las lanças non avie recabdo,
+    > aquelos que gelos dieran non gelo avien logrado.
+    > Por el cobdo ayuso la sangre destellando,
+    > de .xx. arriba ha moros matado.
+    
+1. Tirada __120__: el reconocimiento del Çid
+
+    > Grant fue el dia [por] la cort del Campeador
+    > despues que esta batalla vençieron e al rey Bucar mato.
+    > Alço la mano, a la barba se tomo:
+    > '¡Grado a Christus que del mundo es señor
+    > quando veo lo que avia sabor,
+    > que lidiaron conmigo en el campo mis yernos amos a dos!
+    
+    - Construcción de una identidad que es potencialmente ficticia; es el libro en el que el héroe construye al mismo tiempo sus hazañas - reales - y la percepción de ellas; y su identidad pública. Es el libro en el que se admite una doble visión: la visión individual, de Dios, y la visión colectiva, de la sociedad. En este momento la percepción de las hazañas de cada personaje se vuelve pública; todos perciben al mismo tiempo lo que está haciendo el Campeador, lo que está haciendo Minaya, lo que están haciendo los dos infantes de Carrion.
+    
+    - Es sustancial la idea de una __doble__ carrera, de una __doble__ visión; la visión de Dios, que siempre es auténtica (Dios es el que reconoce las hazañas del Çid como efectivamente validas), y la visión humana, que puede ser despectiva.
+    
+    - Los infantes de Carrión basan toda su experiencia sobre la segunda mirada, la mirada social de sus pares. Si algo pasa en frente de ellos, tiene importancia, tiene valor, es posible evaluarla; si algo pasa en secreto, es como si no hubiera ocurrido. Los infantes de Carrion practican una ética enteramente horizontal y pública, anticuada; el Çid practica una ética personal, vertical, teológica, que el libro considera probablemente más apta a enfrentar las novedades.
+    
+    - El libro construye antes la separación del Çid de la primera mirada, de la primera idea de visión; una visión pública; luego el Çid pasa a través de una especie de ceguera pública (la de __Longinos__), en la que la visión sólo es visión de separación y de ausencia; al mismo tiempo, conoce la mirada individual de Dios; esta separación es la que une el personaje, el héroe, al lector y al narrador de la historia. Los dos comparten en privado las hazañas del Çid, las hazañas privadas del Çid. Justamente, las primeras batallas combatidas por él son batallas basada en la facultad de _ver sin ser vistos_, de practicar _apariencias_ que se revelan despectivas para el enemigo. La primera parte es entonces el acercamiento del héroe del poema a Dios, a su narrador y a su lector; la creación de una ética privada, intima; la sintonia entre la mirada privada del Çid y la percepción que de los hechos tendrán el narrador y el lector.
+    
+    - La segunda parte es la reconciliación pública del Çid; las batallas se vuelven batallas abiertas, en las que el Cid no solamente ve sino también es visto. El ejercicio de su poder es la manera en la que la percepción individual de su mirada se revela en la manera en la que él mismo se muestra a los demás. El Cid se reconcilia con su familia y con su tierra; funda un centro que es el _Panopticon_ de Valençia, que le procura la posibilidad de ver todo lo que hay al rededor de él. Comparte esta visión pública con su mujer y con sus hijas. Es un momento de máxima adherencia entre la visión sujetiva y la visión objetiva: la perspectiva individual del Çid se ha vuelto la perspectiva universal sobre él.
+    
+    - La última parte, con los infantes de Carrion, procura una división entre la percepción pública y la sujetividad individual; el episodio de los leones, la batalla contra el rey de Marruecos, el robledo de Corpes: todos estos episodios están basados en la idea de que la mirada que el público ejerce sobre lo privado también puede ser equivocada.
+    
+    - ¿Qué es lo que procuró la distancia entre el rey y el Çid? ¿Qué es lo que sucedió entre el héroe del poema y Alfonso? No lo podemos saber, pero podemos intuir que se haya tratado de un error de evaluación, de una equivocación en la determinación del valor del caballero. Algo pasó, y es algo que impidió al Çid de ser reconocido por sus propios meritos. Algo que creó confusión. ¿Por qué el poema nos niega este conocimiento? Justamente, la versión que tenemos en este momento es mutila; sin embargo, no hay referencias al pecado original cometido por el Çid en ningún momento, tampoco más adelante. ¿Cuál puede ser la razón de este silencio? Nuestra propuesta es que el silencio esconde una equivocación parecida a la que el Çid comete precisamente en este momento: la realidad que se presenta como objetiva es fallada, el Çid es como Alfonso, y su percepción del valor de sus subordinados también puede ser equivocada.
+    
+    - La última parte vuelve entonces a problematizar la relación entre visión pública y visión privada.
+    
+    - El poema es, en general, extremadamente atento a la percepción que la personas pueden tener. ¿Quién ve a quién? ¿Qué idea puede tener alguien de lo que está pasando, si todo lo que posee es su individual punto de vista?
+    
+    - El poema se preocupa mucho de analizar la complicación sucesiva a la reconciliación.
+    
+1. Tirada __124__: el plan de los infantes de Carrion
+
+    - Una propuesta: salir de Valencia quiere decir salir de la perspectiva del campeador; implica la facultad de actuar sin ser vistos.
+    
+    > Pidamos nuestras mugieres al Çid Campeador;
+    > digamos que las levaremos a tierras de Carrion,
+    > enseñar las hemos do las heredades son:
+    > sacar las hemos de Valençia, de poder del Campeador,
+    > despues en la carrera feremos nuestro sabor
+    > ante que nos retrayan lo que cuntio del leon.
+    
+    - Otro hecho sustancial: el __narrador__ asiste a este diálogo sin poder tener otro testigo; el narrador es realmente el ojo pervasivo de Dios; los infantes de Carrion utilizan los márgenes de la mirada social, pero no conocen el nivel vertical, ético, de este género de narración.
+    
+    - Los infantes de Carrion no saben donde se encuentran; los infantes de Carrion no saben que sus acciones son registradas por el ojo omnisciente del narrador.
+    
+    - El pretexto con los que los infantes de Carrion toman a la mujeres es parecido a la razón por la que el Cid las llevó a Valencia.
+    
+    > Fablo Feran Gonçalez e fizo callar la cort:
+    > '¡Si vos vala el Criador, Çid Campeador!
+    > Que plega a doña Ximena e primero a vos
+    > e a Minaya Albar Fañez e a quantos aqui son:
+    > dad nos nuestras mugieres que avemos a bendiçiones,
+    > levar las hemos a nuestras tierras de Carrion,
+    > meter las hemos en las villas
+    > que les diemos por arras e por onores;
+    > veran vuestras fijas lo que avemos nos,
+    > los fijos que ovieremos en que avran partiçion.'
+    
+    - Hay algo en esta compartición de la propiedad a través de una mirada familiar que quizás merece un poco de atención. O quizás no.
+    
+1. Tirada __125__: los malos agueros de la partida de las mujeres
+
+    > Violo en los avueros el que en buen ora çinxo espada
+    > que estos casamientos non serien sin alguna tacha;
+    > nos puede repentir, que casadas las ha amas.
+    
+1. Tirada __126__: la misión de __Felez Muñoz__ es inmediatamente una misión visual
+
+    > '¿O heres, mio sobrino, tu, Felez Muñoz?
+    > Primo eres de mis fijas amas d'alma e de coraçon.
+    > Mandot que vayas con ellas fata dentro en Carrion,
+    > veras las heredades que a mis fijas dadas son;
+    > con aquestas nuevas vernas al Campeador.'
+    
+    - Justamente, de manera translada, el poder del Cid sigue siendo un poder de pervasividad visual; el Cid quiere saber lo que pasa donde él no puede estar. Manda así a una espia a averiguar lo que está aconteciendo con los infantes de Carrión. La percepción es que el Cid no confie completamente en los dos personajes, que necesite una confirmación visual de lo que está pasando. Ver es poder. Ver siempre es poder.
+    
+1. Tirada __131__: __Felez Muñoz__ ve a los infantes de Carrion; se trata, obviamente, de una insistencia sobre el ver sin ser vistos
+
+    > Alabandos ivan los ifantes de Carrion.
+    > Mas yo vos dire d'aquel Felez Muñoz,
+    > sobrino era del Çid Campeador:
+    > mandaron le ir adelante mas de su grado non fue.
+    > En la carrera do iva doliol el coraçon;
+    > de todos los otros aparte se salio,
+    > en un monte espesso Felez Muñoz se metio
+    > fasta que viesse venir sus primas amas a dos
+    > o que an fecho los ifantes de Carrion.
+    > Violos venir e oyo una razon,
+    > ellos nol vien ni dend sabien raçion;
+    > sabet bien que si ellos le viessen non escapara de muert.
+    
+    - La capacidad es de __ver__ sin ser visto; es una capacidad militar pero también cognitiva; la capacidad de construir una narración más cercana a lo cierto.
+    
+    - __N.B.__: _reciprocidad_ de la visión. _Campo_ siempre contiene la idea de _contracampo_; ver siempre contiene la idea de ser visto. Nuestro __Felez Muñoz__ piensa de actuar sin ser visto, pero nosotros lo estamos viendo. Pero siempre vivimos con la absurda idea de que Dios nos esté mirando, de que alguien pueda ver nuestros ojos ver algo más. De que la realidad misma nos responda mirándonos en el momento mismo en el que nosotros miramos la realidad.
+
+    - El campo de batalla siempre es un escenario, un palco de teatro.
+    
+    - La objetividad de la mirada está __adentro de nosotros__.
+    
+    - La historia del observador en el __Panopticon__: el observador que sale y se vuelve visible.
+    
+    - La conciencia de las dos hijas del Çid es una conciencia visual.
+    
+    > Van recordando don Elvira e doña Sol,
+    > abrieron los ojos e vieron a Felez Muñoz.
+    
+    - Lo mismo sucede con __Minaya__; nueva eco de __Longinos__: ver es reconocer la vida y una sujetividad propia; la facultad de ver es la facultad de existir; ver siempre es verse a si mismo. __Ver siempre es verse a sí mismo.__ Narciso. Lacan, obviamente Lacan. Todo lo que nos importa es verdaderamente como el cuerpo cerca de mí no es el mío - el horror de que el cuerpo cerca de mí no es el mío.
+    
+    > Minaya va ver sus primas do son,
+    > en el fincan los ojos don Elvira e doña Sol:
+    > '¡Atanto vos lo gradimos commo si viessemos al Criador!
+    > E vos a el lo gradid quando bivas somos nos.
+    > En los dias de vagar toda nuestra rencura sabremos contar.'
+    
+    - El Çid recobra su mirada, como Longinos y como las dueñas; esta mirada es singular y subjetiva; esta mirada siempre esconde la conciencia de ser vistos. 
 
 - - -
 
