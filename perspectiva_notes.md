@@ -27,6 +27,24 @@
     
     - Una pregunta esencial: ¿hacia donde __torna__ la cabeza el Cid? Este tambien es un movimiento que hay que indagar, quizas mas aun que la mirada misma. Con esta observacion, el narrador se ha puesto detras de los ojos del Cid, ha limitado el punto de vista de la narracion a su sola perspectiva. No podemos mirar nada mas que lo que ve el Cid. Los objetos observados por la narracion son objetos observados por el mismo.
     
+    - Habría que estudiar el intersticio entre _shot_ y _reverse shot_. Lo que ello contiene. Lo que contiene la idea de un observador sin objeto de observación: la promesa, la eterna posibilidad de una mirada proyectada hacia la nada, hacia el observador mismo. _Estoy mirando algo que no puedes ver, este algo puede ser cualquier cosa_. Proyección hacia el ignoto.
+   
+    - El destierro es un _shot_ al que le falta su _reverse shot_. Es tan fácil imaginarse estas vías, estas noches. Es tan fácil imaginarse al Cid percurrir una via nueva.
+    
+    - La __puerta__ y la __mirada__ son la misma cosa. La __puerta__ y la __mirada__ prometen algo que ya no se puede obtener.
+
+    - Esta visión inicial como postulación:
+    
+        - de un pasado que se está negando, que ya no se puede alcanzar, que ya no es accesible (los objetos que __no están__);
+    
+        - de una posibilidad invisible en el futuro, de una promesa que es también el esfuerzo imaginativo del lector para darle cuerpo a lo que todavía no puede ser visto (los momentos son, en realidad, __tres__:
+        
+            1. lo que el Cid vee y el lector puede ver con él - __POV shot__;
+            2. la reacción del Cid, que el lector puede ver - __Reverse shot/close-up__;
+            3. lo que el Cid vee más allá de la puerta, y que el lector __no__ puede ver.);
+    
+        - de una fundación geográfica, un punto de partida (__ahí__, __ahí__).
+
 1. Tirada __2__
 
     - Esta es la identificacion entre el destierro y un nuevo principio espacial. Este es el momento en el que el personaje es empujado de su dimension inicial, en el que ya no tiene la posibilidad de volver, en el que esta puerta es atravesada. Hay que pensarlo bien: esta puerta abierta es la puerta de la narracion misma, y es el ingreso del personaje en nuestro punto de vista.  
@@ -42,6 +60,10 @@
     - La mirada del lector, el principio de la narracion y el destierro son la misma cosa. Identidad de tres puntos: _mirada_, _narracion_, _destierro_.
     
     - Realmente hay que seguir pensando en ese punto: la cabeza tornada hacia algo. Hay que preguntarse que quiere decir precisamente, cual pueda ser su importancia. Donde esta mirando, esta mirando hacia atras? Que posicion estamos ocupando nosotros, entonces?
+
+    - Cómo puede esta duplicación del adverbio de lugar volverse una __fundación__, la definición de un punto de partida? Por qué esta insistencia? Este es el problema de la __geografía__. Visión y fundación. Lo que sucede en este punto es la negación de la visión como fundación de una nueva visión, de una nueva _posible_ visión.
+
+    - Aquí tenemos el grupo de caballeros cuya perspectiva es asimilada a la de su capitán: los agüeros pertenecen a la colectividad, cada uno de los hombres a caballo los percibe desde el mismo punto de vista - la corneja está a la diestra, luego está a la siniestra.
     
 1. Tirada __3__
 
@@ -54,6 +76,10 @@
     > '¡Dios, que buen vassalo! ¡Si oviesse buen señor!'
     
     - ¿Como imaginar esta escena? Hay que pensar en marcos individuales, distintos - cada uno define un punto de vista individual, de un singular burgues, sobre el Cid exiliado. Hay que pensar que los burgueses no puedan verse entre ellos. Justamente, esta colectividad de miradas distintas y autonomas produce una voz singular, univoca, inconfondible. Justamente todos poseen la misma opinion sobre el Cid; mejor aun, justamente todos poseen la misma opinion sobre lo que quiere decir tener un buen señor y ser un buen vassalo.
+    
+    - Aquí también. Insistencia sobre el punto de vista - tenemos que ponernos detrás de estos ciudadanos, mirando por las finiestras abiertas, hacia abajo, así que podremos decir, con ellos, todos de una razón, "Dios qué buen vassallo" (__identificación social__; momento protreptico - πρότρεψις: el lector aprende cómo leer el poema, y cómo leer el Cid). 
+    
+        - [¿Y no es entonces ese momento, precisamente como __Kinnder auf der Landstrasse__, una secuencia de apropiaciones visuales? Desde la mayor intimidad imaginable - sujeto, anónimo, dos ojos, y el vacío - hacia una primera colectividad, cuya perspectiva se mueve simultaneamente, como si fuera la de un solo individuo - _ovieron_, _ovieron_. Finalmente penetramos otro punto de vista, el de los abitantes de Burgos, y podemos ver a Cid y a sus hombres como un objeto.]
     
 1. Tirada __4__
 
@@ -71,12 +97,22 @@
     > e aun demas los cuerpos e las almas.
     > Grande duelo avien las yentes cristianas;
     > asconden se de mio Çid ca nol osan dezir nada.
+
+    - Es, quizás, un problema contiguo a la negación del _incipit_: la negación de la visión como elemento de exclusión política, de aniquilación de la sujetividad - ¿social u ontológica? - de un individuo o de un grupo de individuos. __Ver__ es __ser__: cabe entender si se trata de un _ser_ en el tejido social y político o si es un ser _humano_. 
+    
+        - [Un buen incipit para el paper: asimilar esta negación de la mirada a la negación editorial de la primera página del poema; como el Cid mismo, y como los habitantes de Burgos, no podemos ver a nuestro protagonista; no podemos ver.]
+
+    - En la ordinacia del rey hay, obviamente, una insistencia curiosa sobre este detalle - en esta primera circunstancia (__27__) es una de las tres componentes que define la sujetividad humana.
+
+    - Se trata de una secuencia ordenada en un climax: desde los ojos (particular), hacia el cuerpo (general/físico/civil), y el alma (absoluto/metafísico/religioso).
+
+    - En la segunda circunstancia, sin embargo, estos ojos consituyen una sinécdoque de la individualidad entera. La "niña de nuef años" que "__a ojo__ se parava" (__40__) con respeto al Cid le veda el acceso con la justificación de que - ?
     
 1. Tiradas __7__-__11__
 
     - Raquel y Vidas. Todo lo que en el poema acontece de noche. Como la historia del Çid es un pasaje a traves de la oscuridad; como es un pasaje del dia a la noche. Los pasajes del dia a la noche son recurrentes en el poema, son uno de sus rasgos estilisticos mas notables. El pasaje a traves de Raquel y Vidas es emblematico de esta transicion.
     
-    - Las consideraciones esenciales son el hecho de que todo deba acontecer en _privado_ (148) y de que a Rachel y Vidas sea absolutamente prohibido que _las catassen_ (164). La consigna de esta orden hace que el Cid mismo se vuelva una eco del rey - el Cid tiene la facultad de impedir que Rachel y Vidas vean y sean vistos.
+    - Las consideraciones esenciales son el hecho de que todo deba acontecer a escondidas, y de que a Rachel y Vidas sea absolutamente prohibido que _las catassen_ (164). La consigna de esta orden hace que el Cid mismo se vuelva una eco del rey - el Cid tiene la facultad de impedir que Rachel y Vidas vean y sean vistos.
     
     > Los guadameçis vermejos e los clavos bien dorados.
     > Por Rachel e Vidas vayades me privado;
@@ -86,6 +122,16 @@
     > De noche lo lieven que no lo vean christianos;
     > vealo el Criador con todos los sos santos,
     > yo mas non puedo e amidos lo fago.'
+        
+    - El secreto contenido en las arcas - el cambio producido a escondidas; concentración sobre lo visual, otra vez; lo importante es que la ilusión no sea percibida por los demás miembros de la comunidad.     
+
+    - Es sustancial que este hecho acontezca a escondidas y en el secreto de la oscuridad. La facultad de _ver_ diferencia a los miembros de la comunidad; _Raquel y Vidas_ no son miembros de la comunidad; las transacciones con _Raquel y Vidas_ acontencen en la oscuridad porque, aunque Dios pueda verlos (¿Unidad ontológica?), el episodio no puede ser socialmente visible (diferencia social); visión y __sociedad__.
+    
+    - Otro problema: la mirada de Dios; la multiplicidad de las miradas humanas si comparadas con la mirada universal, persistente, de Dios. La mirada infalible de Dios; las miradas incompletas de los hombres. Pregunta: ¿de qué manera el narrador limita su propia perspectiva? ¿De qué manera la narración del aedo - universal, indistinta, omnisciente, divina, biblica - se vuelve la narración polifónica de la novela? Antes de llegar a la polifonía, la escritura tuvo que pasar por la sujetividad; la escritura tuvo que intuir que la objetividad no existe - sólo existe la multiplicación de la sujetividad.
+    
+    - Público y privado; objetivo y sujetivo; divino y humano. Nacimiento de lo privado; condivisión de la mirada es fundación del espacio público; ocultación de la mirada es espacio privado. Entonces, podríamos pensar, los primeros verso del Cid también funcionan como la determinación de un espacio privado: la negación de la visión es esta exclusión de la esfera pública, pero es también la creación de un horizonte privado en el que el Cid puede volver a construir su legitima facultad de acción. El _exilio_ pertenece a la misma ambivalencia: se trata de una ruptura del vínculo social (y jerárquico y afectivo) que permite la institución de un nuevo vínculo, basado en los meritos propios de la persona (dos ideas distintas de nobleza). La _mirada_ funciona como momento liminal entre lo privado y lo público; es la transición desde un sistema hereditario hacia un sistema fundado sobre los meritos individuales.
+    
+    - Parece que la insistencia es realmente en la _negación_ de la mirada. Lo importante no es sólo lo que significa _ver_, sino también lo problemático que puede ser __no ver__. Distinguir entre _ver_, _no poder ver_ (falacia del _sujeto_), _no ver nada_ (_falacia del objeto_).
     
 1. Tiradas __12__-__17__
 
@@ -887,7 +933,150 @@
     > '¡Par Sant Esidro verdad non sera oy!
     > Cavalgad, Çid; si non, non avria dend sabor;
     > saludar nos hemos d'alma e de coraçon.
-       
+    
+    - Habría que analizar esta estructura recurriente: los recíprocos _quando_ que definen una condición preliminar a la interacción misma; los _quando_ que constituyen la introducción al acto de verse y de reconocerse; los quando que establecen una conciencia de sí y del otro. _Quando_ los dos individuos están en la condición de reconcer al otro y de reconocerse a sí mismos; _quando_ son establecidas estas bases para una interacción dotada de significado.
+    
+    > Beso la mano e despues le saludo:
+    > '¡Grado a Dios quando vos veo, señor!
+    
+    - Ver es reconocer y reconocerse.
+    
+- Tirada __137__: la preparación de la llegada, ritualmente establecida, del Çid a la __corte real__.
+
+    - Dos detalles: 
+        
+        1. la preparación del corteo público, con la elección de los miembros de ma masnada del Çid que van a ser vistos por la comunidad;
+        2. la atención a la manera de vestirse y de esconder las armas.
+        
+    > Velmezes vestidos por sufrir las guarnizones,
+    > de suso las lorigas tan blancas commo el sol,
+    > sobre las lorigas armiños e peliçones,
+    > e que non parescan las armas, bien presos los cordones;
+    > so los mantos las espadas dulçes e tajadores;
+    > d'aquesta guisa quiero ir a la cort
+    > por demandar mios derechos e dezir mi razon;
+    > si desobra buscaren ifantes de Carrion
+    > ¡do tales çiento tovier bien sere sin pavor!'
+    
+    - Importancia de las apariencias; definición atenta de la identidad _visible_. La educación del Çid es una educación a la apariencia, a la importancia extrema de las apariencias.
+    
+    - El Çid pone luego mucha importancia en la preparación de su ademán público.
+    
+    > Assi commo lo a dicho todos adobados son.
+    > Nos detiene por nada el que en buen ora naçio:
+    > calças de buen paño en sus camas metio,
+    > sobr'ellas unos çapatos que a grant huebra son;
+    > vistio camisa de rançal tan blanca commo el sol,
+    > con oro e con plata todas las presas son,
+    > al puño bien estan, ca el selo mando;
+    > sobr'ella un brial primo de çiclaton,
+    > obrado es con oro, pareçen por o son;
+    > sobr'esto una piel vermeja, as bandas d'oro son,
+    > siempre la viste mio Çid el Campeador;
+    > una cofia sobre los pelos d'un escarin de pro,
+    > con oro es obrada, fecha pro razon,
+    > que non le contalassen los pelos al buen Çid Canpeador.
+    > La barba avie luenga e prisola con el cordon;
+    > por tal lo faze esto que recabdar quiere todo lo so.
+    > De suso cubrio un manto que es de grant valor,
+    > en el abrien que ver quantos que i son.
+    > Con aquestos çiento que adobar mando
+    > a priessa cavalga, de San Servan salio;
+    > assi iva mio Çid adobado a lla cort.
+    > A la puerta de fuera descavalga a sabor,
+    > cuerda mientra entra mio Çid con todos los sos,
+    > el va en medio e los çiento aderredor.
+    
+    - Es una vestición temporal y concentrica - la preposición más utilizada es _sobre_. Siempre se considera al observador; pero también hay que pensar en la intimidad de esos detalles escondidos, de los que solamente el Çid está consciente. Esta escena es la síntesis de la sabiduría del Çid - de la combinación entre la intimidad sujetiva de la mirada de Dios y la importancia estratégica de la mirada humana, colectiva, que define el poder. Es un momento esencial. Ahora sabemos que la verdadera caballería tiene que considerar estas dos caras al mismo tiempo, tiene que estar al mismo tiempo consciente de las implicaciones sujetivas y de la visibilidad objetiva.
+    
+    - Visible e invisible es una componente esencial a partir de las cajas de arena que se utilizan para obtener la plata de Raquel y Vidas; jugar en la determinación de visible e invisible es una de las características esenciales de este héroe. Su juego es el engaño.
+    
+    - Pero su juego también es la conciencia de que todo lo que está aconteciendo es constantemente registrado por los ojos y los instrumentos de la narración y de la ética individual y divina.
+    
+    - Hay que pensarlo más. ¿Qué significa esto? ¿Es que hay alguna sugerencia sobre la importancia de lo divino? ¿Es este un juego maquiavélico de apariencias y de realidad deceptiva? ¿En qué tenemos que concentrar nuestros esfuerzos y nuestra atención?
+    
+    > Quando lo vieron entrar al que en buen ora naçio
+    > levantos en pie el buen rey don Alfonsso
+    > y el conde don Anrrich y el conde don Remont
+    > e desi adelant sabet, todos los otros;
+    > a grant ondra lo reçiben al que en buen ora naçio.
+    
+    - La respuesta que nos dá el texto está en lo que hicieron los infantes de Carrión. Los infantes de Carrion actuan en momentos en los que parece que la única visión activada sea marginal.
+    
+    - La preocupación de los infantes de Carrión está en el episodio del león porque es un episodio de pública humiliación. Pero, lo que los dos hermanos ignoran, es que sus malas hazañas hayan sido vistas - en el campo de batalla y en el robledo de Corpes. ¿Qué habría pasado si no hubiera habido testigos? ¿Si Felez Muñoz no hubiera estado allá?
+    
+    - Esta escena es una continuación de la escena de las arcas. Nadie sabe que el Çid está llevando consigo las armas debajo de los vestidos sontuosos; así nadie - bueno, ni Raquel ni Vidas - podía conocer el verdadero contenido de las arcas.
+    
+    - Más insistencia sobre la visión. Lo contrario de la __maravilla__ (a la que siempre es asociado el Çid en sus hazañas y en su aspecto) es la __verguenza__.
+    
+    > Catando estan a mio Çid quantos ha en la cort,
+    > a la barba que avie luenga e presa con el cordon;
+    > ¡en sos aguisamientos bien semeja varon!
+    > Nol pueden catar de verguença ifantes de Carrion.
+    
+    - Habría que considerar un poco más la diferencia entre _verguenza_ y _maravilla_. _Verguenza_ es una caractéristica sujetiva, una propiedad del observador, una reacción; _maravilla_ es - en este contexto - un atributo objetivo, una propiedad del _observado_.
+    
+    - Nótese que esta podría bien ser la tirada más larga del entero poema.
+    
+    - La entrega de las espadas como otro ritual público. Atención a lo visible.
+    
+    > Sacaron las espadas Colada e Tizon,
+    > pusieron las en mano del rey so señor;
+    > saca las espadas e relumbra toda la cort,
+    > las maçanas e los arriazes todos d'oro son,
+    > maravillan se dellas todos los omnes buenos de la cort.
+    > Reçibio las espadas, las manos le beso,
+    > tornos al escaño don se levanto;
+    > en las manos las tiene e amas las cato,
+    > nos le pueden camear ca el Çid bien las connosçe.
+    
+    - Modalidad hipotética y visual. Las dos cirunstancias de la entrega son circunstancias públicas parecidas.
+    
+    > Hya vieron que es a fer los ifantes de Carrion.
+    > Veriedes aduzir tanto cavallo corredor,
+    > tanta gruessa mula, tanto palafre de sazon,
+    > tanta buena espada con toda guarnizon;
+    > reçibiolo mio Çid commo apreçiaron en la cort.
+     
+1. Tirada __143__: el testigo __Pero Vermuez__
+
+    - La batalla afuera de __Valençia__ es otra circunstancia de escambios visuales, en esta narración; lástima que hayamos perdido esa página aparientemente tan preciosa.
+    
+    - La importancia jurídica de los téstigos comprobaría la atención que el poema le daría a lo visual, finalmente más esencial que lo íntimo. Dios también es un observador, como el narrador de la historia, como el lector mismo. Nadie está al seguro lejos de él. Todos serán vistos al final, todo será visible al final.
+    
+    - Lo que importa es ser vistos o no ser vistos. El Çid se sabe mover con atención entre estos registros, y esto es lo que más importa. La equivocación de los infantes de Carrión no es privada, sino pública; lo que deberían haber hecho es actuar a escondidas, es lograr no ser vistos.
+    
+    - Quizás lo que el destierro le dona al Çid es precisamente esta facultad, este poder - el poder de conocer una mirada persistente sobre él, y al mismo tiempo el poder de no ser visto.
+    
+    > Las tus mañas yo te las sabre contar:
+    > ¿miembrat quando lidiamos çerca Valençia la grand?
+    > Pedist las feridas primeras al Campeador leal,
+    > vist un moro, fustel ensayar,
+    > antes fuxiste que a'l te alegasses.
+
+1. Tirada __149__: más gestualidad consciente
+
+    > Alli se tollio el capielo el Çid Campeador,
+    > la cofia de rançal que blanca era commo el sol,
+    > e soltava la barba e sacola del cordon.
+    > Nos fartan de catarle quantos ha en la cort.
+    
+    - El Çid se vuelve quizás cada ves más visible para el lector también.
+    
+1. Tirada __150__: el espectáculo de la lid entre el Çid y los infantes
+
+    > Troçida es la noche, ya quiebran los albores:
+    > muchos se juntaron de buenos ricos omnes
+    > por ver esta lid ca vien ende sabor;
+    > de mas sobre todos i es el rey don Alfonsso
+    > por querer el derecho e non consentir el tuerto.
+    
+    - Nótese que el lector participa a este espectáculo con la misma admiración y espectativa.
+    
+    - La batalla como destrucción del sujeto visible; desarticulación de las componientes que constituyen la integridad visible del sujeto.
+    
+    - Propuesta final: las dos hijas como las cajas de arena dadas a Raquel y Vidas - lo que importa es la restauración visible de su honra, en el ritual del escambio, y no su secreta virtud. 
+    
 - - -
 
 ##Notas generales
@@ -908,115 +1097,4 @@
 
 - Cada investigación, cada rielaboración de la caballería es una rielaboración lejana en el tiempo; mejor aún, debemos imaginar una ambivalencia: proximidad y lejanía. 
 
-  
-##Episodios notables
-
-1. El __incipit__.
-
-    > De los sos ojos tan fuertemiente llorando,
-    > tornava la cabeça y estávalos catando.
-
-    - __Tiempos verbales__: Y luego, por supuesto, cómo interpretar los tiempos verbales, por qué tenemos acá dos imperfectos, seguidos por una sucesión de indefinidos? Por qué y de qué manera es esta una acción continuada en el tiempo? (__Arqueología de la visión.__ Cada caballería es arqueología. Cada caballería es el contacto del hombre con algo que vino antes que él; cada caballería es el riesgo que no haya caballería; el riesgo de Gawain de volverse a un estadio de bestialidad y de desiderio incontrolado. Cada caballería posee un pasado que es mitícamente _refinado_ y _barbaro_ al mismo tiempo.)
-
-    > Vio puertas abiertas e uços sin cañados,
-    > alcándaras vázias sin pieles e sin mantos 
-    > e sin falcones e sin adtores mudados.
-    > Sospiró mio Çid, ca mucho avié grandes cuidados.
-
-    - Este es el momento en el que nos acercamos al rostro del observador, nos fijamos en su sospiro, en sus cuidados. (__Point of view__. Esta es la teoría de la doble visión; la idea de un _shot_ seguido por un _reverse shot_. Un día lograremos entender como funciona esto precisamente - ya está en Ovidio abundantemente, de todo modo.)
-
-    > Fabló mio Çid, bien e tan mesurado:
-    > "¡Grado a ti, señor padre, que estás en alto!
-    > Esto me an buelto mios enemigos malos".
-    > Allí pienssan de aguijar, allí sueltan las riendas.
-
-    Cómo puede esta duplicación del adverbio de lugar volverse una __fundación__, la definición de un punto de partida? Por qué esta insistencia? Este es el problema de la __geografía__. Visión y fundación. Lo que sucede en este punto es la negación de la visión como fundación de una nueva visión, de una nueva _posible_ visión.
-    Habría que estudiar el intersticio entre _shot_ y _reverse shot_. Lo que ello contiene. Lo que contiene la idea de un observador sin objeto de observación: la promesa, la eterna posibilidad de una mirada proyectada hacia la nada, hacia el observador mismo. _Estoy mirando algo que no puedes ver, este algo puede ser cualquier cosa_. Proyección hacia el ignoto.
-    El destierro es un _shot_ al que le falta su _reverse shot_. Es tan fácil imaginarse estas vías, estas noches. Es tan fácil imaginarse al Cid percurrir una via nueva.
-    La __puerta__ y la __mirada__ son la misma cosa. La __puerta__ y la __mirada__ prometen algo que ya no se puede obtener.
-    Esta visión inicial como postulación:
-    
-    - de un pasado que se está negando, que ya no se puede alcanzar, que ya no es accesible (los objetos que __no están__);
-    
-    - de una posibilidad invisible en el futuro, de una promesa que es también el esfuerzo imaginativo del lector para darle cuerpo a lo que todavía no puede ser visto (los momentos son, en realidad, __tres__:
-        
-        1. lo que el Cid vee y el lector puede ver con él - __POV shot__;
-        2. la reacción del Cid, que el lector puede ver - __Reverse shot/close-up__;
-        3. lo que el Cid vee más allá de la puerta, y que el lector __no__ puede ver.);
-    
-    - de una fundación geográfica, un punto de partida (__ahí__, __ahí__).
-
-    > A la exida de Bivar ovieron la corneja diestra,
-    > e entrando a Burgos oviéronla siniestra.
-
-    Aquí tenemos el grupo de caballeros cuya perspectiva es asimilada a la de su capitán: los agüeros pertenecen a la colectividad, cada uno de los hombres a caballo los percibe desde el mismo punto de vista - la corneja está a la diestra, luego está a la siniestra.
-
-    > Meçió mio Çid los ombros y engrameó la tiesta:
-    > "¡Albricia, Álbar Fañez, ca echados somos de tierra!"
-    > Mio Çid Ruy Díaz por Burgos entrava,
-    > En su conpaña sessaenta pendones;
-    > exién lo ver mugieres e varones,
-    > burgeses e burgesas por las finiestras son,
-    > plorando de los ojos, tanto avién el dolor
-    > De las sus bocas todos dizían una razón:
-    > "¡Dios, qué buen vassallo, si oviesse buen señor!"
-
-    Aquí también. Insistencia sobre el punto de vista - tenemos que ponernos detrás de estos ciudadanos, mirando por las finiestras abiertas, hacia abajo, así que podremos decir, con ellos, todos de una razón, "Dios qué buen vassallo" (__identificación social__; momento protreptico - πρότρεψις: el lector aprende cómo leer el poema, y cómo leer el Cid).
-    [¿Y no es entonces ese momento, precisamente como __Kinnder auf der Landstrasse__, una secuencia de apropiaciones visuales? Desde la mayor intimidad imaginable - sujeto, anónimo, dos ojos, y el vacío - hacia una primera colectividad, cuya perspectiva se mueve simultaneamente, como si fuera la de un solo individuo - _ovieron_, _ovieron_. Finalmente penetramos otro punto de vista, el de los abitantes de Burgos, y podemos ver a Cid y a sus hombres como un objeto.]
-
-2. __Los ojos de la cara__
-
-    Es, quizás, un problema contiguo a la negación del _incipit_: la negación de la visión como elemento de exclusión política, de aniquilación de la sujetividad - ¿social u ontológica? - de un individuo o de un grupo de individuos. __Ver__ es __ser__: cabe entender si se trata de un _ser_ en el tejido social y político o si es un ser _humano_.
-
-    [Un buen incipit para el paper: asimilar esta negación de la mirada a la negación editorial de la primera página del poema; como el Cid mismo, y como los habitantes de Burgos, no podemos ver a nuestro protagonista; no podemos ver.]
-
-    En la ordinacia del rey hay, obviamente, una insistencia curiosa sobre este detalle - en esta primera circunstancia (__27__) es una de las tres componentes que define la sujetividad humana.
-
-    > que perderié los averes e más los ojos de la cara,
-    > e aún demás los cuerpos e las almas.
-
-    Se trata de una secuencia ordenada en un climax: desde los ojos (particular), hacia el cuerpo (general/físico/civil), y el alma (absoluto/metafísico/religioso).
-
-    En la segunda circunstancia, sin embargo, estos ojos consituyen una sinécdoque de la individualidad entera. La "niña de nuef años" que "__a ojo__ se parava" (__40__) con respeto al Cid le veda el acceso con la justificación de que:
-
-    > si non, perderiemos los averes e las casas,
-    > e demás los ojos de las caras.
-
-3. __Raquel y Vidas__
-
-    El secreto contenido en las arcas - el cambio producido a escondidas; concentración sobre lo visual, otra vez; lo importante es que la ilusión no sea percibida por los demás miembros de la comunidad. Entonces:
-
-    > de noche lo lieven, que no lo __vean__ cristianos.
-    > __Véalo__ el Criador con todos los santos,
-    > yo más non puedo e amigos lo fago".
-        
-    - (93-95)
-
-    Es sustancial que este hecho acontezca a escondidas y en el secreto de la oscuridad. La facultad de _ver_ diferencia a los miembros de la comunidad; _Raquel y Vidas_ no son miembros de la comunidad; las transacciones con _Raquel y Vidas_ acontencen en la oscuridad porque, aunque Dios pueda verlos (¿Unidad ontológica?), el episodio no puede ser socialmente visible (diferencia social); visión y __sociedad__.
-    
-    Otro problema: la mirada de Dios; la multiplicidad de las miradas humanas si comparadas con la mirada universal, persistente, de Dios. La mirada infalible de Dios; las miradas incompletas de los hombres. Pregunta: ¿de qué manera el narrador limita su propia perspectiva? ¿De qué manera la narración del aedo - universal, indistinta, omnisciente, divina, biblica - se vuelve la narración polifónica de la novela? Antes de llegar a la polifonía, la escritura tuvo que pasar por la sujetividad; la escritura tuvo que intuir que la objetividad no existe - sólo existe la multiplicación de la sujetividad.
-    
-    Público y privado; objetivo y sujetivo; divino y humano. Nacimiento de lo privado; condivisión de la mirada es fundación del espacio público; ocultación de la mirada es espacio privado. Entonces, podríamos pensar, los primeros verso del Cid también funcionan como la determinación de un espacio privado: la negación de la visión es esta exclusión de la esfera pública, pero es también la creación de un horizonte privado en el que el Cid puede volver a construir su legitima facultad de acción. El _exilio_ pertenece a la misma ambivalencia: se trata de una ruptura del vínculo social (y jerárquico y afectivo) que permite la institución de un nuevo vínculo, basado en los meritos propios de la persona (dos ideas distintas de nobleza). La _mirada_ funciona como momento liminal entre lo privado y lo público; es la transición desde un sistema hereditario hacia un sistema fundado sobre los meritos individuales.
-    
-    Parece que la insistencia es realmente en la _negación_ de la mirada. Lo importante no es sólo lo que significa _ver_, sino también lo problemático que puede ser __no ver__. Distinguir entre _ver_, _no poder ver_ (falacia del _sujeto_), _no ver nada_ (_falacia del objeto_).
-    
-3. __Longinos__
-
-    > Longinos era çiego, que nu[n]quas vio alguandre,
-    > diot con 
-
-4. __Recursos genéricos__
-
-    1. La perspectiva contigua del __caballero__ y del __caballo__:
-
-    > La cara del caballo tornó a Santa María
-    > alçó su mano diestra, la cara se santigua.
-    
-    - (215-216)
-    
-    1. __Ver__ es _comprobar_ (¿jurídicamente?):
-
-    > Espeso é el oro e toda la plata,
-    > bien lo vedes que yo no trayo [nada]
-
-
+- __Tiempos verbales__: Y luego, por supuesto, cómo interpretar los tiempos verbales, por qué tenemos acá dos imperfectos, seguidos por una sucesión de indefinidos? Por qué y de qué manera es esta una acción continuada en el tiempo? (__Arqueología de la visión.__ Cada caballería es arqueología. Cada caballería es el contacto del hombre con algo que vino antes que él; cada caballería es el riesgo que no haya caballería; el riesgo de Gawain de volverse a un estadio de bestialidad y de desiderio incontrolado. Cada caballería posee un pasado que es mitícamente _refinado_ y _barbaro_ al mismo tiempo.)
