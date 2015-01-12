@@ -2,64 +2,84 @@ __Global Heroes, Peri-Iberian Knights__
 
 #Proyecto: Visiones del _Cantar de mio Cid_
 
-G. E. Saretto
+##Estructura
 
-_14 Diciembre 2014_
+1. __Introducción__ El __destierro__: "El destierro de Rodrigo Díaz de Vivar es una privación visual."
 
-##Objetivo del estudio
-
-La narración del _Cantar de Mio Cid_ se abre con la mirada del protagonista sobre los signos de su desgracia: puertas abiertas y perchas vacías. El destierro del héroe, correspondiente a la ruptura del vínculo político y afectivo que lo unía a su señor, se manifiesta a través de una serie de privaciones visuales: siguiendo "los sos ojos", el lector es incitado a imaginar los objetos que caracterizaban un pasado ya inaccesible, unidos por la repetición privativa de la preposición "sin" (vv. 1-5), y a negarlos para proyectar sus expectativas hacia la fundación de una futura perspectiva territorial y colectiva, sugerida por el acceso a las "puertas abiertas" (v. 3). Esta negación de la mirada vuelve a menudo en el texto: es al mimsmo tiempo una forma de marginación, como en el caso de la carta real en Burgos, con su amenaza de sustraer "los ojos de la cara" (v. 27), y una nueva oportunidad de desarrollo, como en el caso del trato con Raquel y Vidas, concordado de noche para que "no lo vean cristianos" (v. 93). En el ámbito del _Cantar_ y de su género, este trabajo se propone entonces investigar las modalidades en las que la facultad de la visión constituye simultáneamente un signo de exclusión, un instrumento de definición e incorporación de identidades colectivas, y una ocasión de transformación social.
-
-##Estructura final
-
-1. En modalidad cursi: _¿de que sirven los ojos?_ Observadores: un __contacto__ entre sujeto y objeto (el leon); __conocimiento__; __para llorar__. Los primeros ojos del poema, los del _Cid_, __lloran__ y __conocen__. Al mismo tiempo, establecen un contacto con su observador: el lector. Esto hay que suponer: estos ojos nos estan mirando a nosotros.
-
-1. Negacion de la mirada: como el __exilio__ es una negacion:
-
-    1. la negacion de los primeros versos (__sin__, __sin__ - hablaremos mas de ella considerando la modalidad hipotetica que tan a menudo esta presente en el poema);
-    1. la negacion de la orden real: los ojos de la cara, repetidos por la niña; el exilio es la ruptura de ese momento de colectividad autorizado por la reciprocidad de la mirada;
-    1. Raquel e Vidas, ocupando el margen de la sociedad; __no__ son vistos, todo debe acontecer en _privado_ (palabra fundamental en todo el poema).
+    1. Negación en el __incipit__ (__sin__, __sin__);
     
-1. Recuperacion de la mirada como momento de centralidad visual - los momentos de centralizacion geografica.
+    1. Negación en la prohibición real (los ojos de la cara).
+    
+        1. Consecuencia: la mirada define la identidad; __ver__ quiere decir __ser vistos__, existir socialmente.
+        
+            - El campo siempre contiene un _contracampo_; el lector es implícito en el principio de la novela; el lector está más allá de la puerta abierta; el lector es al mismo tiempo el vacío de la negación repetida y el _contracampo_ opuesto a las lágrimas del _Çid_.
+            
+            - Reciprocidad. Quizás esta sea nuestra verdadera tesis: aprender a _ver_ es aprender a _ser vistos_. El _Çid_ construye una percepción de sí mismo, el _Çid_ construye a su lector.
+            
+        1. __Ver__ es la posibilidad de construir una identidad propia; _ver_ es establecer una geografía determinada, una colocación del individuo en el espacio.
 
-1. La modalidad hipotetica; el deseo del lector.
+1. __Parte primera__ Funciones de la __visión__: el poema mismo nos dice __por qué__ los ojos de la cara son tan preciosos:
 
-1. En modalidad cursi: _final_.
+    1. Empatía: los __burgueses__;
+    
+    1. Poder en la jerarquía: los escambios entre el Çid, sus vassallos y el rey;
+    
+    1. Dominación geográfica: __Mont Real__;
+    
+    1. La idea militar de __ver sin ser vistos__.
+    
+1. __Parte segunda__ Un viaje a través de la __oscuridad__: huir el destierro - la __reconciliación__.
+    
+    1. Apropiación de la visión: el paradigma de __Longinos__;
+    
+    1. Aprender a actuar _sin ser vistos_: __Raquel y Vidas__ y las primeras batallas;
+    
+        1. La tecnología caballera como una tecnología de _ocultamiento_ (ya lo sabíamos con Gawain).
+    
+    1. Aprender a _ser vistos_: las escenas públicas de triunfo del __Çid__, en el campo de batalla;
+    
+        1. __Maravilla__.
+    
+    1. La reintegración del poder: las mujeres y el __Çid__ en __Valençia__.
 
-##Estructura tentativa
+1. __Parte tercera__ El contraste y el triunfo: __Infantes de Carrión__ y la lid en la corte del rey.
 
-1. Introducción: el incipit del _Cantar de Mio Cid_ entre negación e innovación
-1. La visión negada: destierro y márgenes políticos
-	1. Exilio visual: la _ira regis_ y "los ojos de la cara"
-	2. Economías ocultas: Raquel y Vidas
-	3. "Longinos era çiego": la mirada de Dios y la mirada del "buen señor"
-2. La visión compartida: _caballería militar_ y _épica de caballería_ como tecnologías de identificación y propaganda
-	1. Tecnologías guerreras: perspectivas de caballo y armadura
-	2. Tecnologías literarias: voces de la narración, empatía del punto de vista, representación de lo visible y ficción de lo invisible
-3. Conclusión: transformación social afuera y adentro de la _perspectiva caballera_
+    1. Los episodios de ineptidud de los infantes
+        
+        1. __Verguenza__ (contrasta con la _maravilla_ cidiana)
+        
+        1. Siempre hay un testigo; el testigo también es el lector.
+        
+            - Hay que subrayar el valor de esta parte final como __contraste__ con la inicial. Porque lo es, y bastante. Aquí es donde se entiende muy bien que el __Çid__ construyó algo, con conciencia y atención. Que su trabajo fue el de _escoger_ __un__ punto de vista, y que existen muchos puntos de vista posibles.
+        
+    1. El triunfo del __Çid__ como ejemplo de sujetividad lograda.
 
-##Bibliografía inicial
+1. Conclusión: multiplicidad de puntos de vista, y su importancia.
 
-1. __Agapitos__, Panagiotis A. and __Mortensen__, Lars Boje ed., _Medieval Narratives between History and Fiction: From the Centre to the Periphery of Europe, c. 1100-1400_, Museum Tusculanum Press, Copenhagen, 2012
-	- Butler Stacks: __PN671 .M3765 2012g__
-1. __Boix Jovaní__, Alfonso, _Las armas y montura del héroe: poder e identidad en el_ Cantar de Mio Cid, Ciberletras, Vol. 25, 2011
-2. __Boix Jovaní__, Alfonso, _El Cid pagó a los Judíos_, in "La corónica: A Journal of Medieval Hispanic Languages, Literatures, and Cultures", Vol. 35, No. 1, 2006
-1. __Boix Jovaní__, Alfonso _La Tierra Yerma y el destierro en el_ Cantar de Mio Cid, in "Bulletin of Hispanic Studies", Liverpool University Press, Vol. 85, No. 6, 2008
-2. __Cohen__, Jeffrey Jerome, _Medieval Identity Machines_, University of Minnesota Press, Minneapolis, 2003
-	- Butler Stacks: __CB353 .C64 2003__
-1. __Cohen__, Jeffrey Jerome, _The Inhuman Circuit_, in "Thinking the Limits of the Body", State University of New York Press, New York, 2003
-	- Offsite: __HM636 .T47 2003__
-2. __Cohen__, Jeffrey Jerome, _The Armour of an Alienating Identity_, in "Arthuriana", Vol. 6, No. 4, 1996
-3. __Company Company__, Concepción, _Determinantes al servicio del héroe: artículo + posesivo en el_ Cantar de Mio Cid, in "La corónica: A Journal of Medieval Hispanic Languages, Literatures, and Cultures", Vol. 33, No. 2, 2005
-2. __Harney__, Michael, _Kinship and polity in the Poema de mío Cid_, Purdue University Press, West Lafayette, 1993
-	- Offsite: __PQ6374 .H37 1993__
-1. __Lovatt__, Helen, _The Epic Gaze: Vision, Gender and Narrative in Ancient Epic_, Cambridge University Press, Cambridge, 2013
-	- Butler Stacks: __PA3106 .L68 2013__
-3. __Martín__, Óscar, _El Episodio del Destierro en el_ Cantar de Mio Cid _y su relación con la primera tradición cidiana_, in "La corónica: A Journal of Medieval Hispanic Languages, Literatures, and Cultures", Vol. 32, No. 1, 2003
-4. __Montgomery__, Thomas, _Medieval Spanish Epic: Mythic Roots and Ritual Language_, Pennsylvania State University Press, University Park, 1998
-	- Butler Stacks: __PQ6058 .M66 1998__
-1. __Nichols__, Stephen G., __Kablitz__, Andreas, and __Calhoun__, Alison, _Rethinking the Medieval Senses: Heritage, Fashinations, Frames_
-	- Butler Stacks: __CB351 .R455 2008__
-3. __Scarborough__, Connie, _Inscribing the Environment: Ecocritical Approaches to Medieval Spanish Literature_, De Gruyter, Boston, 2013
-	- Offsite: __CU18741150__
-1. __Terradas__, José Carlos, _La acción como forma religiosa en el_ Poema de mio Cid, in "MLN", Vol. 128, No. 2, 2013
+1. El poema es animado por la intuición de que una visión omnisciente de la realidad sea, de hecho, impracticable; el poema es animado por la intuición de que la objetividad de lo real se haya roto - fragmentado. El poema es animado por la idea de que ya no exista un solo punto de vista.
+
+    1. Quizás podríamos integrar aquí una consideración sobre la situación actual.
+ 
+###Recompilación de ideas
+    
+1. Todo es filtrado por el punto de vista del lector. Todo lo que vemos es lo que nos concede la mirada del narrador; así las primeras palabras, con lo que _ve_ el Çid, y así el pasaje final, con lo que _vemos_ del Çid.
+
+1. ¿Qué pasa entre el __incipit__ del destierro y el triunfo final? La primera consideración es que en la parte final _vemos_ al héroe; en el incipit vemos lo que el héroe ve.
+    
+1. El lector es el contracampo; el lector es el testigo universal; el lector es la mirada omnisciente de Dios (como el narrador).
+
+1. La mirada de Dios es la mirada del narrador y la mirada del lector; es también la sujetividad que uno construye sobre sí mismo.
+
+1. La mirada de Dios no tiene importancia en el mundo; Raquel y Vidas desaparecen; las cajas están llenas de arena; las dos hijas del Çid son como las cajas de arena - lo que importa es la percepción de que las cajas - y de que las hijas - tengan valor.
+
+1. Al principio de la obra, el Çid es destituido, privado de la mirada pública.
+
+##Estructura esencial
+
+1. Tesis: el Çid aprende la importancia de __ser visto__ (la ritualidad pública que _ser visto_ puede implicar)
+
+    1. Corolario: la integración de la historia del Çid adentro del poema es también una manera de _ser visto_ (un punto de vista específico, el del lector; no es el punto de vista de Dios)
+    
+        1. Aquí será incorporada la idea de la modalidad hipotética
+        
+    1. Las malas acciones de los infantes de Carrion siempre tienen un testigo secreto.
