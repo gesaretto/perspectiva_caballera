@@ -1,7 +1,9 @@
-title: "Abrio sos ojos, cato a todas partes": Privación visual y destierro en el _Poema de Mio Cid_
+---
+title: '"Abrio sos ojos, cato a todas partes": Privación visual y destierro en el _Poema de Mio Cid_'
 author: G. E. Saretto
 date: 15 Enero 2015
-bibliography: perspectiva_biblio.bib
+bibliography: perspectiva.bib
+...
 
 #"Abrio sos ojos, cato a todas partes": Privación visual y destierro en el _Poema de Mio Cid_
 
